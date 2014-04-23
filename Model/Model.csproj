@@ -4,7 +4,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>9.0.30729</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{88A1620B-4AA7-4BEA-9412-8C15523F1BE5}</ProjectGuid>
+    <ProjectGuid>{115E002E-CF19-4400-BB38-FA28DA1C4322}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Model</RootNamespace>
@@ -18,14 +18,6 @@
     <NativePlatformName>Windows CE</NativePlatformName>
     <FormFactorID>
     </FormFactorID>
-    <SccProjectName>
-    </SccProjectName>
-    <SccLocalPath>
-    </SccLocalPath>
-    <SccAuxPath>
-    </SccAuxPath>
-    <SccProvider>
-    </SccProvider>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -56,16 +48,18 @@
     <Reference Include="mscorlib" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MConfig.cs" />
-    <Compile Include="MCzCard.cs" />
-    <Compile Include="MCzkType.cs" />
-    <Compile Include="MGoods.cs" />
-    <Compile Include="MMessage.cs" />
-    <Compile Include="MPayFlow.cs" />
-    <Compile Include="MSaleFlow.cs" />
-    <Compile Include="MUser.cs" />
+    <Compile Include="Config.cs" />
+    <Compile Include="CzCard.cs" />
+    <Compile Include="CzCardChZhFlow.cs" />
+    <Compile Include="CzCardChZhRst.cs" />
+    <Compile Include="EnumModel.cs" />
+    <Compile Include="PayFlow.cs" />
+    <Compile Include="SaleHzRpt.cs" />
+    <Compile Include="TradeFlow.cs" />
+    <Compile Include="User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />

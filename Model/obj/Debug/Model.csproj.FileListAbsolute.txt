@@ -1,10 +1,55 @@
-E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\Model\bin\Debug\Model.dll
-E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\Model\bin\Debug\Model.pdb
-E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\Model\obj\Debug\ResolveAssemblyReference.cache
-E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\Model\obj\Debug\Model.dll
-E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\Model\obj\Debug\Model.pdb
-D:\I.IDT700\trunk\Model\bin\Debug\Model.dll
-D:\I.IDT700\trunk\Model\bin\Debug\Model.pdb
-D:\I.IDT700\trunk\Model\obj\Debug\ResolveAssemblyReference.cache
-D:\I.IDT700\trunk\Model\obj\Debug\Model.dll
-D:\I.IDT700\trunk\Model\obj\Debug\Model.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\Model\bin\Debug\Model.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\Model\bin\Debug\Model.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\Model\obj\Debug\Model.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\Model\obj\Debug\Model.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\Model\bin\Debug\Model.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\Model\bin\Debug\Model.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\Model\obj\Debug\Model.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\Model\obj\Debug\Model.pdb
+E:\中转站\SumPos\Model\bin\Debug\Model.dll
+E:\中转站\SumPos\Model\bin\Debug\Model.pdb
+E:\中转站\SumPos\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\中转站\SumPos\Model\obj\Debug\Model.dll
+E:\中转站\SumPos\Model\obj\Debug\Model.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\Model\bin\Debug\Model.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\Model\bin\Debug\Model.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\Model\obj\Debug\Model.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\Model\obj\Debug\Model.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\Model\bin\Debug\Model.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\Model\bin\Debug\Model.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\Model\obj\Debug\Model.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\Model\obj\Debug\Model.pdb
+E:\中转站\SumPos(WebService only card)\Model\bin\Debug\Model.dll
+E:\中转站\SumPos(WebService only card)\Model\bin\Debug\Model.pdb
+E:\中转站\SumPos(WebService only card)\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\中转站\SumPos(WebService only card)\Model\obj\Debug\Model.dll
+E:\中转站\SumPos(WebService only card)\Model\obj\Debug\Model.pdb
+E:\SumPos(WebService only card)\Model\bin\Debug\Model.dll
+E:\SumPos(WebService only card)\Model\bin\Debug\Model.pdb
+E:\SumPos(WebService only card)\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\SumPos(WebService only card)\Model\obj\Debug\Model.dll
+E:\SumPos(WebService only card)\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\Model\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\Model\obj\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\Model\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\Model\obj\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\Model\obj\Debug\Model.pdb
+F:\开发源文件\SumPos(Cen90 WebService only card)\Model\bin\Debug\Model.dll
+F:\开发源文件\SumPos(Cen90 WebService only card)\Model\bin\Debug\Model.pdb
+F:\开发源文件\SumPos(Cen90 WebService only card)\Model\obj\Debug\ResolveAssemblyReference.cache
+F:\开发源文件\SumPos(Cen90 WebService only card)\Model\obj\Debug\Model.dll
+F:\开发源文件\SumPos(Cen90 WebService only card)\Model\obj\Debug\Model.pdb
+H:\开发源文件\SumPos(Cen90 WebService only card)\Model\bin\Debug\Model.dll
+H:\开发源文件\SumPos(Cen90 WebService only card)\Model\bin\Debug\Model.pdb
+H:\开发源文件\SumPos(Cen90 WebService only card)\Model\obj\Debug\ResolveAssemblyReference.cache
+H:\开发源文件\SumPos(Cen90 WebService only card)\Model\obj\Debug\Model.dll
+H:\开发源文件\SumPos(Cen90 WebService only card)\Model\obj\Debug\Model.pdb

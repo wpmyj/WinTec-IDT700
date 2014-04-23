@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Model")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Hisense")]
+[assembly: AssemblyCompany("LENOVO")]
 [assembly: AssemblyProduct("Model")]
-[assembly: AssemblyCopyright("Copyright © Hisense 2013")]
+[assembly: AssemblyCopyright("Copyright © LENOVO 2011")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("75e32f61-3908-471f-8148-0f048dff6a92")]
+[assembly: Guid("fec16ef4-ea45-4bdd-851e-01502c9f2578")]
 
 // 程序集的版本信息由下面四个值组成:
 //

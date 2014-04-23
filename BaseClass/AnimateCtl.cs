@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using System.Reflection;
 
-namespace BaseClass
+namespace AnimateControl
 {
 	
 	public enum FrameLayouts
