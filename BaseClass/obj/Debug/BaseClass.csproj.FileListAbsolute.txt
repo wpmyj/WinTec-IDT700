@@ -1,0 +1,186 @@
+E:\工作文档\地平线\前台\BaseClass\bin\Debug\BaseClass.dll
+E:\工作文档\地平线\前台\BaseClass\bin\Debug\BaseClass.pdb
+E:\工作文档\地平线\前台\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文档\地平线\前台\BaseClass\obj\Debug\AnimateControl.AnimateCtl.resources
+E:\工作文档\地平线\前台\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+E:\工作文档\地平线\前台\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+E:\工作文档\地平线\前台\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+E:\工作文档\地平线\前台\BaseClass\obj\Debug\BaseClass.dll
+E:\工作文档\地平线\前台\BaseClass\obj\Debug\BaseClass.pdb
+E:\工作文档\商盟农资销售\BaseClass\bin\Debug\BaseClass.dll
+E:\工作文档\商盟农资销售\BaseClass\bin\Debug\BaseClass.pdb
+E:\工作文档\商盟农资销售\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文档\商盟农资销售\BaseClass\obj\Debug\AnimateControl.AnimateCtl.resources
+E:\工作文档\商盟农资销售\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+E:\工作文档\商盟农资销售\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+E:\工作文档\商盟农资销售\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+E:\工作文档\商盟农资销售\BaseClass\obj\Debug\BaseClass.dll
+E:\工作文档\商盟农资销售\BaseClass\obj\Debug\BaseClass.pdb
+E:\10.30\商盟农资销售\BaseClass\bin\Debug\BaseClass.dll
+E:\10.30\商盟农资销售\BaseClass\bin\Debug\BaseClass.pdb
+E:\10.30\商盟农资销售\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+E:\10.30\商盟农资销售\BaseClass\obj\Debug\AnimateControl.AnimateCtl.resources
+E:\10.30\商盟农资销售\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+E:\10.30\商盟农资销售\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+E:\10.30\商盟农资销售\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+E:\10.30\商盟农资销售\BaseClass\obj\Debug\BaseClass.dll
+E:\10.30\商盟农资销售\BaseClass\obj\Debug\BaseClass.pdb
+E:\商盟农资销售\BaseClass\bin\Debug\BaseClass.dll
+E:\商盟农资销售\BaseClass\bin\Debug\BaseClass.pdb
+E:\商盟农资销售\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+E:\商盟农资销售\BaseClass\obj\Debug\AnimateControl.AnimateCtl.resources
+E:\商盟农资销售\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+E:\商盟农资销售\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+E:\商盟农资销售\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+E:\商盟农资销售\BaseClass\obj\Debug\BaseClass.dll
+E:\商盟农资销售\BaseClass\obj\Debug\BaseClass.pdb
+H:\商盟农资销售\BaseClass\bin\Debug\BaseClass.dll
+H:\商盟农资销售\BaseClass\bin\Debug\BaseClass.pdb
+H:\商盟农资销售\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+H:\商盟农资销售\BaseClass\obj\Debug\AnimateControl.AnimateCtl.resources
+H:\商盟农资销售\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+H:\商盟农资销售\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+H:\商盟农资销售\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+H:\商盟农资销售\BaseClass\obj\Debug\BaseClass.dll
+H:\商盟农资销售\BaseClass\obj\Debug\BaseClass.pdb
+L:\最新2\商盟农资销售\BaseClass\bin\Debug\BaseClass.dll
+L:\最新2\商盟农资销售\BaseClass\bin\Debug\BaseClass.pdb
+L:\最新2\商盟农资销售\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+L:\最新2\商盟农资销售\BaseClass\obj\Debug\AnimateControl.AnimateCtl.resources
+L:\最新2\商盟农资销售\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+L:\最新2\商盟农资销售\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+L:\最新2\商盟农资销售\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+L:\最新2\商盟农资销售\BaseClass\obj\Debug\BaseClass.dll
+L:\最新2\商盟农资销售\BaseClass\obj\Debug\BaseClass.pdb
+I:\最新1.1\商盟农资销售\BaseClass\bin\Debug\BaseClass.dll
+I:\最新1.1\商盟农资销售\BaseClass\bin\Debug\BaseClass.pdb
+I:\最新1.1\商盟农资销售\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+I:\最新1.1\商盟农资销售\BaseClass\obj\Debug\AnimateControl.AnimateCtl.resources
+I:\最新1.1\商盟农资销售\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+I:\最新1.1\商盟农资销售\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+I:\最新1.1\商盟农资销售\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+I:\最新1.1\商盟农资销售\BaseClass\obj\Debug\BaseClass.dll
+I:\最新1.1\商盟农资销售\BaseClass\obj\Debug\BaseClass.pdb
+C:\Documents and Settings\Administrator\桌面\最新1.1\商盟农资销售\BaseClass\bin\Debug\BaseClass.dll
+C:\Documents and Settings\Administrator\桌面\最新1.1\商盟农资销售\BaseClass\bin\Debug\BaseClass.pdb
+C:\Documents and Settings\Administrator\桌面\最新1.1\商盟农资销售\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\最新1.1\商盟农资销售\BaseClass\obj\Debug\AnimateControl.AnimateCtl.resources
+C:\Documents and Settings\Administrator\桌面\最新1.1\商盟农资销售\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+C:\Documents and Settings\Administrator\桌面\最新1.1\商盟农资销售\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+C:\Documents and Settings\Administrator\桌面\最新1.1\商盟农资销售\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\最新1.1\商盟农资销售\BaseClass\obj\Debug\BaseClass.dll
+C:\Documents and Settings\Administrator\桌面\最新1.1\商盟农资销售\BaseClass\obj\Debug\BaseClass.pdb
+J:\最新1.1\商盟农资销售\BaseClass\bin\Debug\BaseClass.dll
+J:\最新1.1\商盟农资销售\BaseClass\bin\Debug\BaseClass.pdb
+J:\最新1.1\商盟农资销售\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+J:\最新1.1\商盟农资销售\BaseClass\obj\Debug\AnimateControl.AnimateCtl.resources
+J:\最新1.1\商盟农资销售\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+J:\最新1.1\商盟农资销售\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+J:\最新1.1\商盟农资销售\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+J:\最新1.1\商盟农资销售\BaseClass\obj\Debug\BaseClass.dll
+J:\最新1.1\商盟农资销售\BaseClass\obj\Debug\BaseClass.pdb
+C:\Documents and Settings\Administrator\桌面\商盟农资销售\BaseClass\bin\Debug\BaseClass.dll
+C:\Documents and Settings\Administrator\桌面\商盟农资销售\BaseClass\bin\Debug\BaseClass.pdb
+C:\Documents and Settings\Administrator\桌面\商盟农资销售\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\商盟农资销售\BaseClass\obj\Debug\AnimateControl.AnimateCtl.resources
+C:\Documents and Settings\Administrator\桌面\商盟农资销售\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+C:\Documents and Settings\Administrator\桌面\商盟农资销售\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+C:\Documents and Settings\Administrator\桌面\商盟农资销售\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\商盟农资销售\BaseClass\obj\Debug\BaseClass.dll
+C:\Documents and Settings\Administrator\桌面\商盟农资销售\BaseClass\obj\Debug\BaseClass.pdb
+C:\Documents and Settings\Administrator\桌面\商盟农资销售11.30\BaseClass\bin\Debug\BaseClass.dll
+C:\Documents and Settings\Administrator\桌面\商盟农资销售11.30\BaseClass\bin\Debug\BaseClass.pdb
+C:\Documents and Settings\Administrator\桌面\商盟农资销售11.30\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\商盟农资销售11.30\BaseClass\obj\Debug\AnimateControl.AnimateCtl.resources
+C:\Documents and Settings\Administrator\桌面\商盟农资销售11.30\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+C:\Documents and Settings\Administrator\桌面\商盟农资销售11.30\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+C:\Documents and Settings\Administrator\桌面\商盟农资销售11.30\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\商盟农资销售11.30\BaseClass\obj\Debug\BaseClass.dll
+C:\Documents and Settings\Administrator\桌面\商盟农资销售11.30\BaseClass\obj\Debug\BaseClass.pdb
+E:\工作文档\商盟农资销售\程序\BaseClass\bin\Debug\BaseClass.dll
+E:\工作文档\商盟农资销售\程序\BaseClass\bin\Debug\BaseClass.pdb
+E:\工作文档\商盟农资销售\程序\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文档\商盟农资销售\程序\BaseClass\obj\Debug\AnimateControl.AnimateCtl.resources
+E:\工作文档\商盟农资销售\程序\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+E:\工作文档\商盟农资销售\程序\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+E:\工作文档\商盟农资销售\程序\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+E:\工作文档\商盟农资销售\程序\BaseClass\obj\Debug\BaseClass.dll
+E:\工作文档\商盟农资销售\程序\BaseClass\obj\Debug\BaseClass.pdb
+E:\工作文档\商盟农资销售\程序—有会员功能\BaseClass\bin\Debug\BaseClass.dll
+E:\工作文档\商盟农资销售\程序—有会员功能\BaseClass\bin\Debug\BaseClass.pdb
+E:\工作文档\商盟农资销售\程序—有会员功能\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文档\商盟农资销售\程序—有会员功能\BaseClass\obj\Debug\AnimateControl.AnimateCtl.resources
+E:\工作文档\商盟农资销售\程序—有会员功能\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+E:\工作文档\商盟农资销售\程序—有会员功能\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+E:\工作文档\商盟农资销售\程序—有会员功能\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+E:\工作文档\商盟农资销售\程序—有会员功能\BaseClass\obj\Debug\BaseClass.dll
+E:\工作文档\商盟农资销售\程序—有会员功能\BaseClass\obj\Debug\BaseClass.pdb
+E:\开发源文件\商盟农资销售idt700\程序\BaseClass\bin\Debug\BaseClass.dll
+E:\开发源文件\商盟农资销售idt700\程序\BaseClass\bin\Debug\BaseClass.pdb
+E:\开发源文件\商盟农资销售idt700\程序\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+E:\开发源文件\商盟农资销售idt700\程序\BaseClass\obj\Debug\AnimateControl.AnimateCtl.resources
+E:\开发源文件\商盟农资销售idt700\程序\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+E:\开发源文件\商盟农资销售idt700\程序\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+E:\开发源文件\商盟农资销售idt700\程序\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+E:\开发源文件\商盟农资销售idt700\程序\BaseClass\obj\Debug\BaseClass.dll
+E:\开发源文件\商盟农资销售idt700\程序\BaseClass\obj\Debug\BaseClass.pdb
+D:\Documents\项目开发\商盟农资销售idt700\程序\BaseClass\bin\Debug\BaseClass.dll
+D:\Documents\项目开发\商盟农资销售idt700\程序\BaseClass\bin\Debug\BaseClass.pdb
+D:\Documents\项目开发\商盟农资销售idt700\程序\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\项目开发\商盟农资销售idt700\程序\BaseClass\obj\Debug\AnimateControl.AnimateCtl.resources
+D:\Documents\项目开发\商盟农资销售idt700\程序\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+D:\Documents\项目开发\商盟农资销售idt700\程序\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+D:\Documents\项目开发\商盟农资销售idt700\程序\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+D:\Documents\项目开发\商盟农资销售idt700\程序\BaseClass\obj\Debug\BaseClass.dll
+D:\Documents\项目开发\商盟农资销售idt700\程序\BaseClass\obj\Debug\BaseClass.pdb
+E:\Documents\项目开发\项目\IDT700_CMP\IDT700\BaseClass\bin\Debug\BaseClass.dll
+E:\Documents\项目开发\项目\IDT700_CMP\IDT700\BaseClass\bin\Debug\BaseClass.pdb
+E:\Documents\项目开发\项目\IDT700_CMP\IDT700\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\项目开发\项目\IDT700_CMP\IDT700\BaseClass\obj\Debug\AnimateControl.AnimateCtl.resources
+E:\Documents\项目开发\项目\IDT700_CMP\IDT700\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+E:\Documents\项目开发\项目\IDT700_CMP\IDT700\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+E:\Documents\项目开发\项目\IDT700_CMP\IDT700\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+E:\Documents\项目开发\项目\IDT700_CMP\IDT700\BaseClass\obj\Debug\BaseClass.dll
+E:\Documents\项目开发\项目\IDT700_CMP\IDT700\BaseClass\obj\Debug\BaseClass.pdb
+E:\Documents\项目开发\项目\IDT700_CMP\trunk\IDT700\BaseClass\bin\Debug\BaseClass.dll
+E:\Documents\项目开发\项目\IDT700_CMP\trunk\IDT700\BaseClass\bin\Debug\BaseClass.pdb
+E:\Documents\项目开发\项目\IDT700_CMP\trunk\IDT700\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\项目开发\项目\IDT700_CMP\trunk\IDT700\BaseClass\obj\Debug\AnimateControl.AnimateCtl.resources
+E:\Documents\项目开发\项目\IDT700_CMP\trunk\IDT700\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+E:\Documents\项目开发\项目\IDT700_CMP\trunk\IDT700\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+E:\Documents\项目开发\项目\IDT700_CMP\trunk\IDT700\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+E:\Documents\项目开发\项目\IDT700_CMP\trunk\IDT700\BaseClass\obj\Debug\BaseClass.dll
+E:\Documents\项目开发\项目\IDT700_CMP\trunk\IDT700\BaseClass\obj\Debug\BaseClass.pdb
+J:\IDT700\BaseClass\bin\Debug\BaseClass.dll
+J:\IDT700\BaseClass\bin\Debug\BaseClass.pdb
+J:\IDT700\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+J:\IDT700\BaseClass\obj\Debug\AnimateControl.AnimateCtl.resources
+J:\IDT700\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+J:\IDT700\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+J:\IDT700\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+J:\IDT700\BaseClass\obj\Debug\BaseClass.dll
+J:\IDT700\BaseClass\obj\Debug\BaseClass.pdb
+E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\BaseClass\bin\Debug\BaseClass.dll
+E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\BaseClass\bin\Debug\BaseClass.pdb
+E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\BaseClass\obj\Debug\BaseClass.AnimateCtl.resources
+E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\BaseClass\obj\Debug\BaseClass.BaseForm.resources
+E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\BaseClass\obj\Debug\BaseClass.WaitForm.resources
+E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\BaseClass\obj\Debug\BaseClass.dll
+E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\BaseClass\obj\Debug\BaseClass.pdb
+D:\I.IDT700\trunk\BaseClass\bin\Debug\BaseClass.dll
+D:\I.IDT700\trunk\BaseClass\bin\Debug\BaseClass.pdb
+D:\I.IDT700\trunk\BaseClass\bin\Debug\COMM.dll
+D:\I.IDT700\trunk\BaseClass\bin\Debug\Model.dll
+D:\I.IDT700\trunk\BaseClass\bin\Debug\PubGlobal.dll
+D:\I.IDT700\trunk\BaseClass\bin\Debug\Model.pdb
+D:\I.IDT700\trunk\BaseClass\bin\Debug\PubGlobal.pdb
+D:\I.IDT700\trunk\BaseClass\bin\Debug\COMM.pdb
+D:\I.IDT700\trunk\BaseClass\obj\Debug\ResolveAssemblyReference.cache
+D:\I.IDT700\trunk\BaseClass\obj\Debug\BaseClass.AnimateCtl.resources
+D:\I.IDT700\trunk\BaseClass\obj\Debug\BaseClass.FrmBase.resources
+D:\I.IDT700\trunk\BaseClass\obj\Debug\BaseClass.FrmWait.resources
+D:\I.IDT700\trunk\BaseClass\obj\Debug\BaseClass.csproj.GenerateResource.Cache
+D:\I.IDT700\trunk\BaseClass\obj\Debug\BaseClass.dll
+D:\I.IDT700\trunk\BaseClass\obj\Debug\BaseClass.pdb

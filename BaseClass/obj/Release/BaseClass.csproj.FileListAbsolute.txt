@@ -1,0 +1,9 @@
+E:\工作文档\商盟农资销售\BaseClass\bin\Release\BaseClass.dll
+E:\工作文档\商盟农资销售\BaseClass\bin\Release\BaseClass.pdb
+E:\工作文档\商盟农资销售\BaseClass\obj\Release\ResolveAssemblyReference.cache
+E:\工作文档\商盟农资销售\BaseClass\obj\Release\AnimateControl.AnimateCtl.resources
+E:\工作文档\商盟农资销售\BaseClass\obj\Release\BaseClass.BaseForm.resources
+E:\工作文档\商盟农资销售\BaseClass\obj\Release\BaseClass.WaitForm.resources
+E:\工作文档\商盟农资销售\BaseClass\obj\Release\BaseClass.csproj.GenerateResource.Cache
+E:\工作文档\商盟农资销售\BaseClass\obj\Release\BaseClass.dll
+E:\工作文档\商盟农资销售\BaseClass\obj\Release\BaseClass.pdb

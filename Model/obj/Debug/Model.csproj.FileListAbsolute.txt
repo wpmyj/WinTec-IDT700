@@ -1,0 +1,10 @@
+E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\Model\bin\Debug\Model.dll
+E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\Model\bin\Debug\Model.pdb
+E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\Model\obj\Debug\Model.dll
+E:\Documents\项目开发\项目\I.IDT700美食广场版\trunk\Model\obj\Debug\Model.pdb
+D:\I.IDT700\trunk\Model\bin\Debug\Model.dll
+D:\I.IDT700\trunk\Model\bin\Debug\Model.pdb
+D:\I.IDT700\trunk\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\I.IDT700\trunk\Model\obj\Debug\Model.dll
+D:\I.IDT700\trunk\Model\obj\Debug\Model.pdb

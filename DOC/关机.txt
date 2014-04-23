@@ -1,0 +1,15 @@
+
+        [System.Runtime.InteropServices.DllImport("coredll")]
+        public extern static int KernelIoControl(int dwIoControlCode, IntPtr lpInBuf, int nInBufSize, IntPtr lpOutBuf, int nOutBufSize, ref int lpBytesReturned);
+        [System.Runtime.InteropServices.DllImport("coredll")]
+        public extern static void keybd_event(byte bVK, byte bScan, byte dwFlags, byte dwExtraInfo);
+        private void Shutdownbtn_Click(object sender, EventArgs e)//??3?o
+        {
+            int IOCTL_HAL_SHUTDOWN = 0x1012000;//?3?o
+            int bytesReturned = 0;
+            byte VK_OFF = 0xdf;
+            byte KEYEVENTF_KEYUP = 2;
+            KernelIoControl(IOCTL_HAL_SHUTDOWN, IntPtr.Zero, 0, IntPtr.Zero, 0, ref bytesReturned);
+            keybd_event(VK_OFF, 0, 0, 0);
+            keybd_event(VK_OFF, 0, KEYEVENTF_KEYUP, 0);//?3?o
+        }
