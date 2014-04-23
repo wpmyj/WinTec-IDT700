@@ -1,0 +1,12 @@
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqlServerAction\obj\Debug\ResolveAssemblyReference.cache
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqlServerAction\bin\Debug\SqlServerAction.dll
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqlServerAction\bin\Debug\SqlServerAction.pdb
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqlServerAction\bin\Debug\Model.dll
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqlServerAction\bin\Debug\Model.pdb
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqlServerAction\obj\Debug\SqlServerAction.dll
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqlServerAction\obj\Debug\SqlServerAction.pdb
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqlServerAction\bin\Debug\ComClass.dll
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqlServerAction\bin\Debug\ComClass.pdb
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqlServerAction\bin\Debug\CompactFormatterPlus.dll
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqlServerAction\bin\Debug\ISerial.dll
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqlServerAction\bin\Debug\SharpZipLib.dll

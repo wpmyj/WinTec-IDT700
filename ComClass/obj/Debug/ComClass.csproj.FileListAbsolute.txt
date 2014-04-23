@@ -1,0 +1,8 @@
+H:\开发源文件\SumPos(webservice 3.5 带单品)\ComClass\bin\Debug\ComClass.dll
+H:\开发源文件\SumPos(webservice 3.5 带单品)\ComClass\bin\Debug\ComClass.pdb
+H:\开发源文件\SumPos(webservice 3.5 带单品)\ComClass\obj\Debug\ResolveAssemblyReference.cache
+H:\开发源文件\SumPos(webservice 3.5 带单品)\ComClass\obj\Debug\ComClass.dll
+H:\开发源文件\SumPos(webservice 3.5 带单品)\ComClass\obj\Debug\ComClass.pdb
+H:\开发源文件\SumPos(webservice 3.5 带单品)\ComClass\bin\Debug\CompactFormatterPlus.dll
+H:\开发源文件\SumPos(webservice 3.5 带单品)\ComClass\bin\Debug\ISerial.dll
+H:\开发源文件\SumPos(webservice 3.5 带单品)\ComClass\bin\Debug\SharpZipLib.dll

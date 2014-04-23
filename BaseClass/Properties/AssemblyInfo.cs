@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("BaseClass")]
-[assembly: AssemblyCopyright("版权所有 (C)  2011")]
+[assembly: AssemblyCopyright("版权所有 (C)  2008")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("a28eaab4-dcf7-4426-bebd-a9c5169951ee")]
+[assembly: Guid("4da37dee-8d55-4827-8a26-093ebc62f85e")]
 
 // 程序集的版本信息由下面四个值组成:
 //
@@ -31,5 +31,5 @@ using System.Runtime.InteropServices;
 //
 // 可以指定所有这些值，也可以使用“修订号”和“内部版本号”的默认值，
 // 方法是按如下所示使用“*”:
-[assembly: AssemblyVersion("2.0.0.0")]
+[assembly: AssemblyVersion("1.0.*")]
 

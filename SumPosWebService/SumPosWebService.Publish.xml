@@ -1,0 +1,36 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost:8080/">
+    <file relUrl="bin/Model.pdb" publishTime="10/19/2012 15:02:17" />
+    <file relUrl="bin/ComClass.pdb" publishTime="10/19/2012 15:02:17" />
+    <file relUrl="crossdomain.xml" publishTime="10/09/2012 09:23:33" />
+    <file relUrl="Web.config" publishTime="10/11/2012 14:57:27" />
+    <file relUrl="clientaccesspolicy.xml" publishTime="10/09/2012 09:23:33" />
+    <file relUrl="bin/SumPosWebService.dll" publishTime="10/19/2012 15:02:18" />
+    <file relUrl="bin/SumPosWebService.pdb" publishTime="10/19/2012 15:02:18" />
+    <file relUrl="bin/Model.dll" publishTime="10/19/2012 15:02:17" />
+    <file relUrl="bin/CompactFormatterPlus.dll" publishTime="09/26/2011 14:51:46" />
+    <file relUrl="SumPosWebService.asmx" publishTime="10/11/2012 16:03:22" />
+    <file relUrl="bin/ComClass.dll" publishTime="10/19/2012 15:02:17" />
+    <file relUrl="bin/SharpZipLib.dll" publishTime="09/26/2011 14:51:46" />
+    <file relUrl="bin/SqlServerAction.pdb" publishTime="10/19/2012 15:02:18" />
+    <file relUrl="bin/SqlServerAction.dll" publishTime="10/19/2012 15:02:18" />
+    <file relUrl="xtErrorLog.xml" publishTime="10/17/2012 14:47:41" />
+    <file relUrl="bin/ISerial.dll" publishTime="09/26/2011 14:51:46" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Inetpub\wwwroot\sumpos(webservice with goods)\">
+    <file relUrl="xtErrorLog.xml" publishTime="10/09/2012 09:23:35" />
+    <file relUrl="clientaccesspolicy.xml" publishTime="10/09/2012 09:23:33" />
+    <file relUrl="crossdomain.xml" publishTime="10/09/2012 09:23:33" />
+    <file relUrl="bin/SqlServerAction.pdb" publishTime="10/11/2012 15:26:04" />
+    <file relUrl="bin/SqlServerAction.dll" publishTime="10/11/2012 15:26:04" />
+    <file relUrl="bin/ISerial.dll" publishTime="09/26/2011 14:51:46" />
+    <file relUrl="bin/Model.dll" publishTime="10/11/2012 15:18:54" />
+    <file relUrl="bin/SumPosWebService.dll" publishTime="10/11/2012 15:26:05" />
+    <file relUrl="Web.config" publishTime="10/11/2012 14:57:27" />
+    <file relUrl="bin/Model.pdb" publishTime="10/11/2012 15:18:54" />
+    <file relUrl="bin/SharpZipLib.dll" publishTime="09/26/2011 14:51:46" />
+    <file relUrl="bin/CompactFormatterPlus.dll" publishTime="09/26/2011 14:51:46" />
+    <file relUrl="Service1.asmx" publishTime="10/09/2012 09:19:07" />
+    <file relUrl="bin/SumPosWebService.pdb" publishTime="10/11/2012 15:26:05" />
+  </publishTarget>
+</publishData>

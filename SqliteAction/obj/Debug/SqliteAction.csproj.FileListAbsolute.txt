@@ -1,0 +1,19 @@
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SqliteAction\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SqliteAction\bin\Debug\SqliteAction.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SqliteAction\bin\Debug\SqliteAction.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SqliteAction\bin\Debug\Model.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SqliteAction\bin\Debug\Model.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SqliteAction\obj\Debug\SqliteAction.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SqliteAction\obj\Debug\SqliteAction.pdb
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqliteAction\obj\Debug\ResolveAssemblyReference.cache
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqliteAction\obj\Debug\SqliteAction.pdb
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqliteAction\bin\Debug\SqliteAction.dll
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqliteAction\bin\Debug\SqliteAction.pdb
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqliteAction\bin\Debug\Model.dll
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqliteAction\bin\Debug\Model.pdb
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqliteAction\obj\Debug\SqliteAction.dll
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqliteAction\bin\Debug\ComClass.dll
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqliteAction\bin\Debug\ComClass.pdb
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqliteAction\bin\Debug\CompactFormatterPlus.dll
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqliteAction\bin\Debug\ISerial.dll
+H:\开发源文件\SumPos(webservice 3.5 带单品)\SqliteAction\bin\Debug\SharpZipLib.dll

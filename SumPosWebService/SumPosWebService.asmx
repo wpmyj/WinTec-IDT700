@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="SumPosWebService.asmx.cs" Class="SumPosWebService.Service1" %>
