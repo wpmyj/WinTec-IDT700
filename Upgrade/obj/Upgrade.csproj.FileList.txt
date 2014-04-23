@@ -1,0 +1,17 @@
+bin\Debug\Upgrade.exe
+bin\Debug\Upgrade.pdb
+bin\Debug\ComClass.dll
+bin\Debug\System.Data.SqlClient.dll
+bin\Debug\System.Data.SqlClient.xml
+bin\Debug\ComClass.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Upgrade.ExitForm.resources
+obj\Debug\Upgrade.MainForm.resources
+obj\Debug\Upgrade.Properties.Resources.resources
+obj\Debug\Upgrade.Step1Form.resources
+obj\Debug\Upgrade.Step2Form.resources
+obj\Debug\Upgrade.Step3Form.resources
+obj\Debug\Upgrade.WaitForm.resources
+obj\Debug\Upgrade.csproj.GenerateResource.Cache
+obj\Debug\Upgrade.exe
+obj\Debug\Upgrade.pdb

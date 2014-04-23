@@ -1,0 +1,141 @@
+<publishData>
+  <publishTarget publishUrl="C:\Documents and Settings\Administrator\桌面\smpos\">
+    <file relUrl="bin/Model.pdb" publishTime="09/26/2012 09:37:55" />
+    <file relUrl="crossdomain.xml" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="Web.config" publishTime="09/19/2012 10:23:52" />
+    <file relUrl="clientaccesspolicy.xml" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="bin/SumPosWebService.dll" publishTime="09/26/2012 09:37:56" />
+    <file relUrl="bin/SumPosWebService.pdb" publishTime="09/26/2012 09:37:56" />
+    <file relUrl="bin/Model.dll" publishTime="09/26/2012 09:37:55" />
+    <file relUrl="bin/CompactFormatterPlus.dll" publishTime="09/26/2011 14:51:46" />
+    <file relUrl="更新脚本.txt" publishTime="09/17/2012 10:35:55" />
+    <file relUrl="SumPosWebService.asmx" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="bin/xtErrorLog.xml" publishTime="09/24/2012 10:36:28" />
+    <file relUrl="bin/SharpZipLib.dll" publishTime="09/26/2011 14:51:46" />
+    <file relUrl="bin/SqlServerAction.pdb" publishTime="09/26/2012 09:37:56" />
+    <file relUrl="bin/SqlServerAction.dll" publishTime="09/26/2012 09:37:56" />
+    <file relUrl="PAS.txt" publishTime="09/13/2012 10:06:47" />
+    <file relUrl="xtErrorLog.xml" publishTime="09/24/2012 10:36:28" />
+    <file relUrl="bin/ISerial.dll" publishTime="09/26/2011 14:51:46" />
+  </publishTarget>
+  <publishTarget publishUrl="http://localhost:8070/">
+    <file relUrl="bin/Model.pdb" publishTime="09/26/2012 09:37:55" />
+    <file relUrl="crossdomain.xml" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="Web.config" publishTime="09/19/2012 10:23:52" />
+    <file relUrl="clientaccesspolicy.xml" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="bin/SumPosWebService.dll" publishTime="09/26/2012 09:37:56" />
+    <file relUrl="bin/SumPosWebService.pdb" publishTime="09/26/2012 09:37:56" />
+    <file relUrl="bin/Model.dll" publishTime="09/26/2012 09:37:55" />
+    <file relUrl="bin/CompactFormatterPlus.dll" publishTime="09/26/2011 14:51:46" />
+    <file relUrl="更新脚本.txt" publishTime="09/17/2012 10:35:55" />
+    <file relUrl="SumPosWebService.asmx" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="bin/xtErrorLog.xml" publishTime="09/24/2012 10:36:28" />
+    <file relUrl="bin/SharpZipLib.dll" publishTime="09/26/2011 14:51:46" />
+    <file relUrl="bin/SqlServerAction.pdb" publishTime="09/26/2012 09:37:56" />
+    <file relUrl="bin/SqlServerAction.dll" publishTime="09/26/2012 09:37:56" />
+    <file relUrl="PAS.txt" publishTime="09/13/2012 10:06:47" />
+    <file relUrl="xtErrorLog.xml" publishTime="09/24/2012 10:36:28" />
+    <file relUrl="bin/ISerial.dll" publishTime="09/26/2011 14:51:46" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Documents and Settings\Administrator\桌面\posser\">
+    <file relUrl="bin/Model.pdb" publishTime="09/25/2012 11:00:30" />
+    <file relUrl="crossdomain.xml" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="Web.config" publishTime="09/19/2012 10:23:52" />
+    <file relUrl="clientaccesspolicy.xml" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="bin/SumPosWebService.dll" publishTime="09/25/2012 11:00:31" />
+    <file relUrl="bin/SumPosWebService.pdb" publishTime="09/25/2012 11:00:31" />
+    <file relUrl="bin/Model.dll" publishTime="09/25/2012 11:00:30" />
+    <file relUrl="bin/CompactFormatterPlus.dll" publishTime="09/26/2011 14:51:46" />
+    <file relUrl="SumPosWebService.asmx" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="bin/xtErrorLog.xml" publishTime="09/24/2012 10:36:28" />
+    <file relUrl="更新脚本.txt" publishTime="09/17/2012 10:35:55" />
+    <file relUrl="bin/SharpZipLib.dll" publishTime="09/26/2011 14:51:46" />
+    <file relUrl="bin/SqlServerAction.pdb" publishTime="09/25/2012 11:00:31" />
+    <file relUrl="bin/SqlServerAction.dll" publishTime="09/25/2012 11:00:31" />
+    <file relUrl="PAS.txt" publishTime="09/13/2012 10:06:47" />
+    <file relUrl="xtErrorLog.xml" publishTime="09/24/2012 10:36:28" />
+    <file relUrl="bin/ISerial.dll" publishTime="09/26/2011 14:51:46" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Documents and Settings\Administrator\桌面\pos\">
+    <file relUrl="DllPubFile.dll" publishTime="05/21/2012 10:28:27" />
+    <file relUrl="bin/Model.pdb" publishTime="05/25/2012 10:53:09" />
+    <file relUrl="crossdomain.xml" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="bin/DllPubFile.dll" publishTime="05/21/2012 10:28:27" />
+    <file relUrl="Web.config" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="clientaccesspolicy.xml" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="bin/SumPosWebService.dll" publishTime="05/25/2012 10:53:09" />
+    <file relUrl="bin/SumPosWebService.pdb" publishTime="05/25/2012 10:53:09" />
+    <file relUrl="bin/Model.dll" publishTime="05/25/2012 10:53:09" />
+    <file relUrl="bin/CompactFormatterPlus.dll" publishTime="09/26/2011 14:23:50" />
+    <file relUrl="SumPosWebService.asmx" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="bin/xtErrorLog.xml" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="bin/SharpZipLib.dll" publishTime="09/26/2011 14:23:50" />
+    <file relUrl="bin/SqlServerAction.pdb" publishTime="05/25/2012 10:53:09" />
+    <file relUrl="bin/SqlServerAction.dll" publishTime="05/25/2012 10:53:09" />
+    <file relUrl="xtErrorLog.xml" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="bin/ISerial.dll" publishTime="09/26/2011 14:23:50" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Documents and Settings\Administrator\桌面\">
+    <file relUrl="DllPubFile.dll" publishTime="05/21/2012 10:28:27" />
+    <file relUrl="bin/Model.pdb" publishTime="05/21/2012 15:23:47" />
+    <file relUrl="bin/crossdomain.xml" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="bin/clientaccesspolicy.xml" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="clientaccesspolicy.xml" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="bin/SumPosWebService.dll" publishTime="05/21/2012 15:23:47" />
+    <file relUrl="bin/SumPosWebService.pdb" publishTime="05/21/2012 15:23:47" />
+    <file relUrl="bin/Model.dll" publishTime="05/21/2012 15:23:47" />
+    <file relUrl="bin/CompactFormatterPlus.dll" publishTime="09/26/2011 14:23:50" />
+    <file relUrl="SumPosWebService.asmx" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="bin/xtErrorLog.xml" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="xtErrorLog.xml" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="Web.config" publishTime="09/26/2011 14:23:52" />
+    <file relUrl="bin/SharpZipLib.dll" publishTime="09/26/2011 14:23:50" />
+    <file relUrl="bin/SqlServerAction.pdb" publishTime="05/21/2012 15:23:47" />
+    <file relUrl="bin/SqlServerAction.dll" publishTime="05/21/2012 15:23:47" />
+    <file relUrl="bin/DllPubFile.dll" publishTime="05/21/2012 10:28:27" />
+    <file relUrl="bin/ISerial.dll" publishTime="09/26/2011 14:23:50" />
+    <file relUrl="crossdomain.xml" publishTime="09/26/2011 14:23:52" />
+  </publishTarget>
+  <publishTarget publishUrl="E:\My Documents\我的文档\Visual Studio 2008\Projects\wwwroot\SumPos\">
+    <file relUrl="bin/.svn/prop-base/Model.dll.svn-base" publishTime="09/19/2011 20:48:51" />
+    <file relUrl="SumPosWebService.asmx" publishTime="09/13/2011 17:27:29" />
+    <file relUrl="bin/.svn/prop-base/SumPosWebService.dll.svn-base" publishTime="09/19/2011 20:48:53" />
+    <file relUrl="bin/ISerial.dll" publishTime="09/14/2011 11:27:37" />
+    <file relUrl="bin/.svn/text-base/xtErrorLog.xml.svn-base" publishTime="09/19/2011 20:49:07" />
+    <file relUrl="bin/Model.pdb" publishTime="09/24/2011 11:29:32" />
+    <file relUrl="bin/.svn/prop-base/ISerial.dll.svn-base" publishTime="09/19/2011 20:48:51" />
+    <file relUrl="bin/crossdomain.xml" publishTime="09/15/2011 11:55:31" />
+    <file relUrl="bin/.svn/text-base/SharpZipLib.dll.svn-base" publishTime="09/19/2011 20:49:36" />
+    <file relUrl="bin/.svn/prop-base/SumPosWebService.pdb.svn-base" publishTime="09/19/2011 20:48:53" />
+    <file relUrl="bin/.svn/prop-base/CompactFormatterPlus.dll.svn-base" publishTime="09/19/2011 20:48:51" />
+    <file relUrl="bin/.svn/text-base/SumPosWebService.pdb.svn-base" publishTime="09/19/2011 20:49:27" />
+    <file relUrl="bin/Model.dll" publishTime="09/24/2011 11:29:32" />
+    <file relUrl="bin/SqlServerAction.pdb" publishTime="09/24/2011 11:29:32" />
+    <file relUrl="bin/.svn/prop-base/SharpZipLib.dll.svn-base" publishTime="09/19/2011 20:48:52" />
+    <file relUrl="bin/.svn/prop-base/SqlServerAction.pdb.svn-base" publishTime="09/19/2011 20:48:52" />
+    <file relUrl="bin/SqlServerAction.dll" publishTime="09/24/2011 11:29:32" />
+    <file relUrl="bin/.svn/text-base/CompactFormatterPlus.dll.svn-base" publishTime="09/19/2011 20:49:32" />
+    <file relUrl="bin/.svn/text-base/SqlServerAction.dll.svn-base" publishTime="09/19/2011 20:49:19" />
+    <file relUrl="bin/CompactFormatterPlus.dll" publishTime="09/14/2011 11:27:37" />
+    <file relUrl="bin/.svn/text-base/Model.dll.svn-base" publishTime="09/19/2011 20:49:33" />
+    <file relUrl="Web.config" publishTime="09/16/2011 17:17:47" />
+    <file relUrl="bin/.svn/prop-base/Model.pdb.svn-base" publishTime="09/19/2011 20:48:51" />
+    <file relUrl="bin/SharpZipLib.dll" publishTime="08/06/2011 10:37:07" />
+    <file relUrl="bin/.svn/text-base/crossdomain.xml.svn-base" publishTime="09/19/2011 20:49:09" />
+    <file relUrl="xtErrorLog.xml" publishTime="09/19/2011 15:02:02" />
+    <file relUrl="bin/.svn/entries" publishTime="09/19/2011 20:49:43" />
+    <file relUrl="bin/.svn/text-base/clientaccesspolicy.xml.svn-base" publishTime="09/19/2011 20:49:31" />
+    <file relUrl="bin/.svn/text-base/ISerial.dll.svn-base" publishTime="09/19/2011 20:49:07" />
+    <file relUrl="bin/SumPosWebService.pdb" publishTime="09/24/2011 14:12:32" />
+    <file relUrl="bin/clientaccesspolicy.xml" publishTime="09/15/2011 11:55:31" />
+    <file relUrl="bin/.svn/text-base/SumPosWebService.dll.svn-base" publishTime="09/19/2011 20:49:28" />
+    <file relUrl="clientaccesspolicy.xml" publishTime="09/15/2011 11:55:31" />
+    <file relUrl="bin/SumPosWebService.dll" publishTime="09/24/2011 14:12:32" />
+    <file relUrl="bin/.svn/text-base/Model.pdb.svn-base" publishTime="09/19/2011 20:49:33" />
+    <file relUrl="bin/.svn/text-base/SqlServerAction.pdb.svn-base" publishTime="09/19/2011 20:49:17" />
+    <file relUrl="bin/.svn/dir-prop-base" publishTime="09/19/2011 20:48:50" />
+    <file relUrl="bin/xtErrorLog.xml" publishTime="09/19/2011 15:02:02" />
+    <file relUrl="bin/.svn/prop-base/SqlServerAction.dll.svn-base" publishTime="09/19/2011 20:48:52" />
+    <file relUrl="crossdomain.xml" publishTime="09/15/2011 11:55:31" />
+  </publishTarget>
+</publishData>

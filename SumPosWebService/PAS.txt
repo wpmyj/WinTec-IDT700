@@ -1,0 +1,461 @@
+--刷卡消费
+Function  TfrmTrade.ExpendCzk:Boolean;
+var p:TP_Pay;
+    qry1:TADOQuery;
+    isck:integer;
+    defTotal,defkkMny:Currency;
+    defHyZh:string;
+begin
+  Result:=True;
+  if NetStatus=ntPos then
+  begin
+    p:=PayHead;
+    while p<>nil do
+    begin
+      if ((p^.TendCode=ICPAY)or(p^.TendCode=ICCARD))and(p^.ckic='0') then
+      begin
+        Result:=False;
+        PlaySound;
+        UWarningMsgBox('单机状态不允许储值卡付款！');
+        break;
+      end;
+      if (p^.TendCode=VIPPAY) then
+      begin
+        Result:=False;
+        PlaySound;
+        UWarningMsgBox('单机状态不允许电子券付款！');
+        break;
+      end;
+      p:=p^.next;
+    end;
+    exit;
+  end
+  else begin
+    isck:=0;
+    p:=PayHead;
+    while p<>nil do
+    begin
+      if ((p^.TendCode=ICPAY)or(p^.TendCode=ICCARD))and(p^.ckic='0') then
+      begin
+        isck:=1;
+        break;
+      end;
+      if (p^.TendCode=VIPPAY) then
+      begin
+        isck:=1;
+        break;
+      end;
+      p:=p^.next;
+    end;
+    if isck=0 then //无磁卡付款、电子券付款
+    begin
+      Result:=True;
+      exit;
+    end;
+  end;
+
+  if PosCfg.tCzkdbLink='2' then //连接服务器
+  begin
+  end
+  else begin  //本地服务器
+    qry1:=TADOQuery.Create(nil);
+    qry1.LockType:=ltReadOnly;
+    qry1.connection:=dmHs.DbMis;
+    try
+      try
+        dmHs.DbMis.BeginTrans;
+        p:=PayHead;
+        while p<>nil do
+        begin
+          if (p^.TendCode=ICPAY)and(p^.ckic='0') then
+          begin
+            qry1.Close;
+            qry1.SQL.Clear; 
+            qry1.SQL.Add('update tCzkCard set total=total-(:total1),xfje=xfje+(:xfje), '
+            +'  xfTimes=xfTimes+1,xfDate=:xfDate,lastxfje=:lastxfje '
+            +' where hykh=:hykh and total>=(:total2) and total>=0 and ckic=''0'' ');
+            qry1.Parameters.ParamByName('hykh').Value  :=p^.PayID;
+            qry1.Parameters.ParamByName('total1').Value:=p^.Amount;
+            qry1.Parameters.ParamByName('total2').Value:=p^.Amount;
+            qry1.Parameters.ParamByName('xfje').Value  :=p^.Amount;
+            qry1.Parameters.ParamByName('xfDate').Value:=Date;
+            qry1.Parameters.ParamByName('lastxfje').Value:=p^.Amount;
+            qry1.ExecSQL;
+            if qry1.RowsAffected<>1 then
+              Raise Exception.Create('储值卡付款失败！'+#10#13+'取消这笔交易并速与管理员联系'+#13
+                     +'可能原因:'+#13
+                     +'1)系统断网;'+#13
+                     +'2)该卡不存在;'+#13
+                     +'3)卡金额不足;'+#13
+                     +'4)非磁卡类型。' );
+            //修改验证金额
+            qry1.Close;
+            qry1.SQL.Clear; 
+            qry1.SQL.Add('select hykh,hyzh,kkje,total from tCzkCard where hykh=:hykh ');
+            qry1.Parameters.ParamByName('hykh').Value  :=p^.PayID;
+            qry1.Open;
+            defHyZh :=qry1.fieldbyname('hyzh').AsString;
+            defTotal:=qry1.fieldbyname('total').AsCurrency;
+            defkkMny:=qry1.fieldbyname('kkje').AsCurrency;
+            qry1.Close;
+            qry1.SQL.Clear;
+            qry1.SQL.Add('update tCzkCardMark set VerifyMark=:VerifyMark where hykh=:hykh ');
+            qry1.parameters.ParamByName('hykh').Value      :=p^.PayID;
+            qry1.parameters.ParamByName('VerifyMark').Value:=VerifyMark(defHyZh,defTotal+defkkMny);
+            qry1.ExecSQL;
+            //记录消费日志
+            qry1.Close;
+            qry1.SQL.Clear;
+            qry1.SQL.Add('insert into tCzkPayError(flow_no,cardno,posno,sdate,operater,tradetype,paypmt,total,scye,ckic) '
+            +' values(:flow_no,:cardno,:posno,:sdate,:operater,:tradetype,:paypmt,:total,:scye,:ckic) ');
+            qry1.Parameters.ParamByName('flow_no').Value  :=Rec_Tran.LsNum;
+            qry1.Parameters.ParamByName('cardno').Value   :=p^.PayID;
+            qry1.Parameters.ParamByName('posno').Value    :=PosCfg.sDeskCode;
+            qry1.Parameters.ParamByName('sdate').Value    :=LsTime;
+            qry1.Parameters.ParamByName('operater').Value :=UserRgst.UserCode;
+            qry1.Parameters.ParamByName('tradetype').Value:=Rec_Tran.TranType;
+            qry1.Parameters.ParamByName('paypmt').Value   :=p^.TendCode;
+            qry1.Parameters.ParamByName('total').Value    :=p^.Amount;
+            qry1.Parameters.ParamByName('scye').Value     :=p^.scye;
+            qry1.Parameters.ParamByName('ckic').Value     :=p^.ckic;
+            qry1.ExecSQL; 
+          end
+          else if (p^.TendCode=ICCARD)and(p^.ckic='0') then
+          begin
+            qry1.Close;
+            qry1.SQL.Clear;
+            qry1.SQL.Add('update tCzkCard set kkje=kkje-(:total1),xfje=xfje+(:xfje),iskbxf=''1'', '
+            +'  xfTimes=xfTimes+1,xfDate=:xfDate,lastxfje=:lastxfje '
+            +' where hykh=:hykh and kkje>=(:total2) and kkje>=0 and iskbxf<>''1'' and ckic=''0'' ');
+            qry1.Parameters.ParamByName('hykh').Value  :=p^.PayID;
+            qry1.Parameters.ParamByName('total1').Value:=p^.Amount;
+            qry1.Parameters.ParamByName('total2').Value:=p^.Amount;
+            qry1.Parameters.ParamByName('xfje').Value  :=p^.Amount;
+            qry1.Parameters.ParamByName('xfDate').Value:=Date;
+            qry1.Parameters.ParamByName('lastxfje').Value:=p^.Amount;
+            qry1.ExecSQL;
+            if qry1.RowsAffected<>1 then
+              Raise Exception.Create('空卡付款失败！'+#10#13+'取消这笔交易并速与管理员联系'+#13
+                     +'可能原因:'+#13
+                     +'1)系统断网;'+#13
+                     +'2)该卡不存在;'+#13
+                     +'3)该卡已刷空卡;'+#13
+                     +'4)非磁卡类型。' );
+            //修改验证金额
+            qry1.Close;
+            qry1.SQL.Clear; 
+            qry1.SQL.Add('select hykh,hyzh,kkje,total from tCzkCard where hykh=:hykh ');
+            qry1.Parameters.ParamByName('hykh').Value  :=p^.PayID;
+            qry1.Open;
+            defHyZh :=qry1.fieldbyname('hyzh').AsString;
+            defTotal:=qry1.fieldbyname('total').AsCurrency;
+            defkkMny:=qry1.fieldbyname('kkje').AsCurrency;
+            qry1.Close;
+            qry1.SQL.Clear;
+            qry1.SQL.Add('update tCzkCardMark set VerifyMark=:VerifyMark where hykh=:hykh ');
+            qry1.parameters.ParamByName('hykh').Value      :=p^.PayID;
+            qry1.parameters.ParamByName('VerifyMark').Value:=VerifyMark(defHyZh,defTotal+defkkMny);
+            qry1.ExecSQL;
+            //记录卡消费日志
+            qry1.Close;
+            qry1.SQL.Clear;
+            qry1.SQL.Add('insert into tCzkPayError(flow_no,cardno,posno,sdate,operater,tradetype,paypmt,total,scye,ckic) '
+            +' values(:flow_no,:cardno,:posno,:sdate,:operater,:tradetype,:paypmt,:total,:scye,:ckic) ');
+            qry1.Parameters.ParamByName('flow_no').Value  :=Rec_Tran.LsNum;
+            qry1.Parameters.ParamByName('cardno').Value   :=p^.PayID;
+            qry1.Parameters.ParamByName('posno').Value    :=PosCfg.sDeskCode;
+            qry1.Parameters.ParamByName('sdate').Value    :=LsTime;
+            qry1.Parameters.ParamByName('operater').Value :=UserRgst.UserCode;
+            qry1.Parameters.ParamByName('tradetype').Value:=Rec_Tran.TranType;
+            qry1.Parameters.ParamByName('paypmt').Value   :=p^.TendCode;
+            qry1.Parameters.ParamByName('total').Value    :=p^.Amount;
+            qry1.Parameters.ParamByName('scye').Value     :=0;
+            qry1.Parameters.ParamByName('ckic').Value     :=p^.ckic;
+            qry1.ExecSQL;
+          end
+          else if (p^.TendCode=VIPPAY) then
+          begin
+            qry1.Close;
+            qry1.SQL.Clear; 
+            qry1.SQL.Add('select VipNO,total from tVipMemberMark where VipNO=:VipNO ');
+            qry1.Parameters.ParamByName('VipNO').Value  :=p^.PayID;
+            qry1.Open;
+            defHyZh :=qry1.fieldbyname('VipNO').AsString;
+            defTotal:=qry1.fieldbyname('total').AsCurrency-p^.Amount;
+            qry1.Close;
+            qry1.SQL.Clear; 
+            qry1.SQL.Add('update tVipMemberMark set total=total-(:total1),xfje=xfje+(:xfje),VerifyMark=:VerifyMark '
+            +' where VipNO=:VipNO and total>=(:total2) and total>=0 ');
+            qry1.Parameters.ParamByName('VipNO').Value :=p^.PayID;
+            qry1.Parameters.ParamByName('total1').Value:=p^.Amount;
+            qry1.Parameters.ParamByName('total2').Value:=p^.Amount;
+            qry1.Parameters.ParamByName('xfje').Value  :=p^.Amount;
+            qry1.parameters.ParamByName('VerifyMark').Value:=VerifyMark(defHyZh,defTotal);
+            qry1.ExecSQL;
+            if qry1.RowsAffected<>1 then
+              Raise Exception.Create('电子券付款失败！'+#10#13+'取消这笔交易并速与管理员联系'+#13
+                     +'可能原因:'+#13
+                     +'1)系统断网;'+#13
+                     +'2)该卡不存在;'+#13
+                     +'3)卡金额不足。' );
+            //记录消费日志
+            qry1.Close;
+            qry1.SQL.Clear;
+            qry1.SQL.Add('insert into tCzkPayError(flow_no,cardno,posno,sdate,operater,tradetype,paypmt,total,scye,ckic) '
+            +' values(:flow_no,:cardno,:posno,:sdate,:operater,:tradetype,:paypmt,:total,:scye,:ckic) ');
+            qry1.Parameters.ParamByName('flow_no').Value  :=Rec_Tran.LsNum;
+            qry1.Parameters.ParamByName('cardno').Value   :=p^.PayID;
+            qry1.Parameters.ParamByName('posno').Value    :=PosCfg.sDeskCode;
+            qry1.Parameters.ParamByName('sdate').Value    :=LsTime;
+            qry1.Parameters.ParamByName('operater').Value :=UserRgst.UserCode;
+            qry1.Parameters.ParamByName('tradetype').Value:=Rec_Tran.TranType;
+            qry1.Parameters.ParamByName('paypmt').Value   :=p^.TendCode;
+            qry1.Parameters.ParamByName('total').Value    :=p^.Amount;
+            qry1.Parameters.ParamByName('scye').Value     :=p^.scye;
+            qry1.Parameters.ParamByName('ckic').Value     :=p^.ckic;
+            qry1.ExecSQL; 
+          end;
+
+          p:=p^.next;
+        end;
+        dmHs.DbMis.CommitTrans;
+      except
+        on E:Exception do
+        begin
+          Result:=False;
+          dmHs.DbMis.RollbackTrans;
+          WriteAppException(e);
+          //NetStatus:=ntPos;
+          //ShowNetStatus;
+          UInforMsgBox(E.Message);
+        end;
+      end;
+    finally
+      qry1.free;
+    end; 
+  end;
+end;
+
+
+//储值卡查询
+procedure TfrmTrade.Key_Func_IcCard;
+var cardno,ckic,Msg:string;
+    total,defTotal,defkkMny:Currency;
+    tMark:string;
+    defHyKh,delHyZh:string;
+begin
+  if ShowRICForm(cardno,total,ckic,Msg) then
+  begin
+    if ckic='0' then
+    begin
+      if NetStatus=ntPos then
+      begin
+        PlaySound;
+        UInforMsgBox('请联网使用储值卡!');
+        exit;
+      end;
+    end;
+    with TADOQuery.Create(Application) do
+    begin
+      Try
+        Close;
+        LockType:=ltReadOnly;
+        connection:=dmHs.DbMis;
+        {if ckic='0' then
+          connection:=dmHs.DbMis
+        else
+          connection:=dmHs.DbPos;}
+        Sql.Clear;
+        Sql.add('Select hykh,hyzh,CustName,kkje,total,iskbxf,ckic,Stat,Psw,yxDate  '
+        +' From tCzkCard Where hyzh=:hyzh ');
+        Parameters.ParamByName('hyzh').Value:=cardno;
+        Try
+          Open;
+          if RecordCount<>1 then
+          begin
+            PlaySound;
+            UInforMsgBox('此卡禁用！');
+            exit;          
+          end;          
+          if(formatdatetime('yyyy''-''mm''-''dd',Now)>formatdatetime('yyyy''-''mm''-''dd',fieldByName('yxDate').AsDateTime))
+            or (fieldByName('Stat').AsString<>'1')
+            or (fieldbyname('iskbxf').AsString='1') then
+          begin
+            PlaySound;
+            UInforMsgBox('卡状态异常或有效期已过或已刷空卡！');
+            exit;          
+          end; 
+          if ckic<>fieldbyname('ckic').AsString then
+          begin
+            PlaySound;
+            UInforMsgBox('卡类型不匹配！');
+            exit;
+          end;
+          defHyKh :=fieldByName('hykh').AsString;
+          delHyZh :=fieldByName('hyzh').AsString;
+          defTotal:=fieldByName('total').AsCurrency;
+          defkkMny:=fieldByName('kkje').AsCurrency;
+          if ckic='0' then
+          begin 
+            total:=defTotal;
+            close;
+            Sql.Clear;
+            Sql.add('select VerifyMark from tCzkCardMark where hykh=:hykh ');
+            Parameters.ParamByName('hykh').Value:=defHyKh;
+            open;
+            tMark:=fieldbyname('VerifyMark').AsString;
+            if tMark<>VerifyMark(delHyZh,defTotal+defkkMny) then
+            begin
+              PlaySound;
+              UInforMsgBox('卡金额验证有误！');
+              exit;
+            end; 
+          end;
+          ShowWorkMsg('卡号:'+defHyKh+' / '+FormatFloat(sDisplayFormatMny,total));
+        except
+          on e: Exception do
+          begin
+            WriteAppException(e);
+            //NetStatus:=ntPos;
+            //ShowNetStatus;
+          end;
+        end;
+      Finally
+        Free;
+      end;
+    end;     
+  end;
+  edtINPUT.Text:='';
+end;
+
+--修改储值卡密码
+Function TfrmChgCzkPsw.AltCode:Boolean;
+var ts1:string;
+begin
+   Result:=False;
+   if not CheckOldCode then begin
+      Result:=False;
+      Exit;
+   end;
+   if edtNEWPSW.Text=edtNEWPSW1.Text then begin
+      ts1:=EncryStrHex(edtNEWPSW.Text,Copy(cardno,Length(cardno)-3,4));
+      with TADOQuery.Create(nil) do
+      try
+         try
+            close;
+            LockType:=ltReadOnly;
+            Connection:=dmHs.DbMis;
+            sql.clear;
+            sql.add('Update tCzkCard set Psw=:Psw where hyzh=:hyzh ');
+            parameters.ParamByName('hyzh').Value:=cardno;
+            parameters.ParamByName('Psw').Value :=ts1;
+            execsql;
+            //
+            close;
+            Connection:=dmHs.DbMis;
+            sql.clear;
+            sql.add('Update tCzkCard set Psw=:Psw where hyzh=:hyzh ');
+            parameters.ParamByName('hyzh').Value:=cardno;
+            parameters.ParamByName('Psw').Value :=ts1;
+            execsql;
+
+            Result:=True;
+         Except
+            on E:Exception do
+            begin
+              //NetStatus:=NtPos;
+              //ShowNetStatus;
+            end;
+         end;
+         close;
+      finally
+         free;
+      end;
+   end
+   else begin
+      edtNEWPSW.text :='';
+      edtNEWPSW1.text:='';
+      edtNEWPSW.SetFocus;
+      UWarningMsgBox('两次输入的密码不一致！');
+      Result:=False;
+   end;
+end;
+
+
+
+//根据输入卡号，金额生成验证码
+function VerifyMark(cardno:string;total:Currency):string;
+var s1,s2,s3:string;
+begin
+  s1:=cardno+UFillRightString(floattostr(total),8,#48);
+  s2:=UFillRightString(cardno,8,#48);
+  s3:=UFillRightString(GetNextNumber(cardno),8,#48);
+  Result:=EncryStrHex(EncryStrHex(s1,s2),s3);
+end;
+
+function UFillRightString(const S:String;L:Integer;FillChar:char):String;
+begin
+  Result := UFillString(S, L, FillChar, 'R');
+end;
+
+//-----------------------------------------------------------------------
+// 名称:        UFormatStr
+// 说明:	前后补齐字符串到指定长度。
+// 参数：	S:String
+//				被处理的字符串
+//              L:Integer
+//                              指定长度，限定被处理的字符串的最大长度，如果被处理的字符串的长度
+//                              大于等于这个数值，则返回前面L个字符组成的字符串
+//              FillChar:Char
+//                              用来补足的字符
+//              FillMode:String
+//                              处理类型
+// 返回：	String
+//				处理后得到的字符串
+//-----------------------------------------------------------------------
+function UFillString(const S:String;L:Integer;FillChar:char;FillMode:String):String;
+var
+  i : Integer;
+  FillString : String;
+begin
+  if (UpperCase(FillMode)<>'R') And (Uppercase(FillMode)<>'L') then
+  begin
+    Result := S;
+    Exit;
+  end;
+  if Length(S) >= L then
+  begin
+     Result := Copy(S,1,L);
+     Exit;
+  end;
+  FillString := '';
+  for i := 1 to L - Length(S) do
+    FillString := FillString + FillChar;
+  if UpperCase(FillMode) = 'R' then
+    Result := S + FillString
+  else
+    Result := FillString + S;
+end;
+
+
+//生成下一个序号
+function GetNextNumber(const szNumber:string):String;
+var nCarry,i:integer;
+begin
+    Result:=szNumber;
+    nCarry:=1;
+    i:=length(szNumber);
+    while (nCarry=1) and (i>0) do
+    begin
+         if szNumber[i]<>'9' then
+         begin
+            Result[i]:=chr(ord(Result[i])+1);
+            nCarry:=0;
+         end
+         else
+         begin
+            Result[i]:='0';
+            i:=i-1;
+         end;
+    end;
+end;

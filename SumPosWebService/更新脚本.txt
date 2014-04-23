@@ -1,0 +1,316 @@
+--分店信息
+CREATE TABLE [tCzkShop] (
+	[fdCode] [varchar] (6)  NOT NULL ,
+	[fdName] [varchar] (50)  NOT NULL ,
+	[signchr] [varchar] (20)  NULL ,
+	[fdtype] [varchar] (1)  NOT NULL ,
+	[area] [varchar] (6)  NOT NULL ,
+	[address] [varchar] (50)  NULL ,
+	[postcode] [varchar] (6)  NULL ,
+	[http] [varchar] (100)  NULL ,
+	[email] [varchar] (40)  NULL ,
+	[telphone] [varchar] (20)  NULL ,
+	[fax] [varchar] (20)  NULL ,
+	[bank] [varchar] (50)  NULL ,
+	[acntno] [varchar] (30)  NULL ,
+	[taxno] [varchar] (20)  NULL ,
+	[lawman] [varchar] (20)  NULL ,
+	[qkje] [money] NOT NULL  DEFAULT (0),
+	[linkman] [varchar] (12)  NULL ,
+	[linktel] [varchar] (40)  NULL ,
+	[linkprof] [varchar] (40)  NULL ,
+	[remark] [varchar] (50)  NULL ,
+	[flag] [varchar] (1)  NOT NULL  DEFAULT ('1'),
+	[lrdate] [datetime] NOT NULL ,
+	[lrpep] [varchar] (12)  NOT NULL ,
+	[xgdate] [datetime] NOT NULL ,
+	[xgpep] [varchar] (12)  NOT NULL ,
+	[sFlag] [varchar] (1)  NOT NULL  DEFAULT ('0'),
+	CONSTRAINT [PK_tCzkShop] PRIMARY KEY  CLUSTERED 
+	(
+		[fdCode]
+	)  ON [PRIMARY] 
+) ON [PRIMARY]
+
+GO
+
+--款台信息
+CREATE TABLE [tCzkPos] (
+	[posno] [varchar] (4)  NOT NULL ,
+	[posname] [varchar] (30)  NOT NULL ,
+	[posid] [varchar] (50)  NOT NULL ,  --站点ID///mac地址
+	[fdCode] [varchar] (6)  NOT NULL ,
+	[status] [varchar] (1)  NULL ,
+	[onuse] [varchar] (1)  NOT NULL ,
+	[UserCode] [varchar] (5)  NULL ,
+	[UserName] [varchar] (12)  NULL ,
+	CONSTRAINT [PK_tCzkPos] PRIMARY KEY  CLUSTERED 
+	(
+		[posno]
+	)  ON [PRIMARY] 
+) ON [PRIMARY]
+
+GO
+--用户信息
+CREATE TABLE [tCzkUser] (
+	[UserCode] [varchar] (5)  NOT NULL ,
+	[UserName] [varchar] (12)  NOT NULL ,
+	[mpassword] [varchar] (50)  NULL ,
+	[mClass] [varchar] (3)  NOT NULL  DEFAULT ('000'),
+	[mdept] [varchar] (6)  NOT NULL ,--分店号
+	[RightCode] [varchar] (30)  NULL ,
+	[tIndex] [smallint] NOT NULL  DEFAULT (1),
+	[xgDate] [datetime] NOT NULL  DEFAULT (getdate()),
+	CONSTRAINT [PK_tCzkUser] PRIMARY KEY  CLUSTERED 
+	(
+		[UserCode]
+	)  ON [PRIMARY] 
+) ON [PRIMARY]
+GO
+
+CREATE TABLE [tCzkPosCfg] (
+	[posno] [varchar] (4)  NOT NULL ,
+	[Section] [varchar] (20)  NOT NULL ,
+	[CsName] [varchar] (20)  NOT NULL ,
+	[CsValue] [varchar] (80)  NULL ,
+	CONSTRAINT [PK_tCzkPosCfg] PRIMARY KEY  NONCLUSTERED 
+	(
+		[posno],
+		[Section],
+		[CsName]
+	)  ON [PRIMARY] 
+) ON [PRIMARY]
+GO
+
+--用户日志
+CREATE TABLE [tCzkUserLog] (
+	[LogDate] [datetime] NOT NULL ,
+	[UserCode] [varchar] (5)  NULL ,
+	[UserName] [varchar] (12)  NULL ,
+	[Computer] [varchar] (20)  NULL ,
+	[Operation] [varchar] (200)  NULL ,
+	[LogType] [varchar] (1)  NOT NULL 
+) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_tCzkUserLog] ON [dbo].[tCzkUserLog]([LogDate]) ON [PRIMARY]
+GO
+
+CREATE TABLE [tXsPayFlow] (
+	[flow_no] [varchar] (16)  NOT NULL ,
+	[flow_id] [smallint] NOT NULL ,
+	[posno] [varchar] (4)  NOT NULL ,
+	[sdate] [datetime] NOT NULL ,
+	[stime] [varchar] (8)  NOT NULL ,
+	[operater] [varchar] (5)  NOT NULL ,
+	[squadno] [varchar] (1)  NOT NULL ,
+	[tradetype] [varchar] (1)  NOT NULL ,
+	[paypmt] [varchar] (2)  NOT NULL ,
+	[PayAmount] [money] NOT NULL  DEFAULT (0),
+	[total] [money] NOT NULL  DEFAULT (0),
+	[cardno] [varchar] (30)  NULL ,
+	[scye] [money] NOT NULL  DEFAULT (0),
+	[ckic] [varchar] (1)  NULL ,
+	[shopno] [varchar] (6)  NOT NULL ,
+	[ysdate] [datetime] NOT NULL ,
+	[flag] [varchar] (1)  NULL ,
+	[hzSn] [varchar] (16)  NULL 
+) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_tXsPayFlow_1] ON [dbo].[tXsPayFlow]([flow_no]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_tXsPayFlow_2] ON [dbo].[tXsPayFlow]([posno]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_tXsPayFlow_3] ON [dbo].[tXsPayFlow]([sdate]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_tXsPayFlow_4] ON [dbo].[tXsPayFlow]([tradetype]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_tXsPayFlow_5] ON [dbo].[tXsPayFlow]([paypmt]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_tXsPayFlow_6] ON [dbo].[tXsPayFlow]([cardno]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_tXsPayFlow_7] ON [dbo].[tXsPayFlow]([shopno]) ON [PRIMARY]
+GO
+
+
+CREATE TABLE [tXsTradeFlow] (
+	[flow_no] [varchar] (16)  NOT NULL ,
+	[posno] [varchar] (4)  NOT NULL ,
+	[sdate] [datetime] NOT NULL ,
+	[stime] [varchar] (8)  NOT NULL ,
+	[operater] [varchar] (5)  NOT NULL ,
+	[squadno] [varchar] (1)  NOT NULL ,
+	[tradetype] [varchar] (1)  NOT NULL ,
+	[qty] [money] NOT NULL  DEFAULT (0),
+	[total] [money] NOT NULL  DEFAULT (0),
+	[zkje] [money] NOT NULL  DEFAULT (0),
+	[payje] [money] NOT NULL  DEFAULT (0),
+	[Change] [money] NOT NULL  DEFAULT (0),
+	[CustCode] [varchar] (10)  NULL ,
+	[CustFlag] [varchar] (1)  NULL ,
+	[RightNo] [varchar] (20)  NULL ,
+	[bcjf] [money] NOT NULL  DEFAULT (0),
+	[scjf] [money] NOT NULL  DEFAULT (0),
+	[shopno] [varchar] (6)  NOT NULL ,
+	[ysdate] [datetime] NOT NULL ,
+	[flag] [varchar] (1)  NULL ,
+	[hzSn] [varchar] (16)  NULL 
+) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_tXsTradeFlow_1] ON [dbo].[tXsTradeFlow]([flow_no]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_tXsTradeFlow_2] ON [dbo].[tXsTradeFlow]([posno]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_tXsTradeFlow_3] ON [dbo].[tXsTradeFlow]([sdate]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_tXsTradeFlow_4] ON [dbo].[tXsTradeFlow]([tradetype]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_tXsTradeFlow_5] ON [dbo].[tXsTradeFlow]([shopno]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_tXsTradeFlow_6] ON [dbo].[tXsTradeFlow]([CustCode]) ON [PRIMARY]
+GO
+
+--付款流水*
+CREATE TABLE [pos_PayFlow] (
+	[flow_no] [varchar] (16)  NOT NULL ,
+	[flow_id] [smallint] NOT NULL ,
+	[posno] [varchar] (4)  NOT NULL ,
+	[sdate] [datetime] NOT NULL ,
+	[stime] [varchar] (8)  NOT NULL ,
+	[operater] [varchar] (5)  NOT NULL ,
+	[squadno] [varchar] (1)  NOT NULL ,
+	[tradetype] [varchar] (1)  NOT NULL ,
+	[paypmt] [varchar] (2)  NOT NULL ,
+	[PayAmount] [money] NOT NULL  DEFAULT (0),
+	[total] [money] NOT NULL  DEFAULT (0),
+	[cardno] [varchar] (30)  NULL ,
+	[scye] [money] NOT NULL  DEFAULT (0),
+	[ckic] [varchar] (1)  NULL ,
+	[shopno] [varchar] (6)  NOT NULL ,
+	CONSTRAINT [PK_pos_PayFlow] PRIMARY KEY  NONCLUSTERED 
+	(
+		[flow_no],
+		[flow_id],
+		[posno],
+		[sdate],
+		[stime],
+		[tradetype]
+	)  ON [PRIMARY] 
+) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_Pos_PayFlow_1] ON [dbo].[pos_PayFlow]([flow_no]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_Pos_PayFlow_2] ON [dbo].[pos_PayFlow]([posno]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_Pos_PayFlow_3] ON [dbo].[pos_PayFlow]([sdate]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_Pos_PayFlow_4] ON [dbo].[pos_PayFlow]([tradetype]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_Pos_PayFlow_5] ON [dbo].[pos_PayFlow]([paypmt]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_Pos_PayFlow_6] ON [dbo].[pos_PayFlow]([cardno]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_Pos_PayFlow_7] ON [dbo].[pos_PayFlow]([operater]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_Pos_PayFlow_8] ON [dbo].[pos_PayFlow]([shopno]) ON [PRIMARY]
+GO
+--交易流水*
+CREATE TABLE [pos_TradeFlow] (
+	[flow_no] [varchar] (16)  NOT NULL ,
+	[posno] [varchar] (4)  NOT NULL ,
+	[sdate] [datetime] NOT NULL ,
+	[stime] [varchar] (8)  NOT NULL ,
+	[operater] [varchar] (5)  NOT NULL ,
+	[squadno] [varchar] (1)  NOT NULL ,
+	[tradetype] [varchar] (1)  NOT NULL ,
+	[qty] [money] NOT NULL  DEFAULT (0),
+	[total] [money] NOT NULL  DEFAULT (0),
+	[zkje] [money] NOT NULL  DEFAULT (0),
+	[payje] [money] NOT NULL  DEFAULT (0),
+	[Change] [money] NOT NULL  DEFAULT (0),
+	[CustCode] [varchar] (10)  NULL ,
+	[CustFlag] [varchar] (1)  NULL ,
+	[RightNo] [varchar] (20)  NULL ,
+	[bcjf] [money] NOT NULL  DEFAULT (0),
+	[scjf] [money] NOT NULL  DEFAULT (0),
+	[shopno] [varchar] (6)  NOT NULL ,
+	CONSTRAINT [PK_pos_TradeFlow] PRIMARY KEY  NONCLUSTERED 
+	(
+		[flow_no],
+		[posno],
+		[sdate],
+		[stime],
+		[tradetype]
+	)  ON [PRIMARY] 
+) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_pos_TradeFlow_1] ON [dbo].[pos_TradeFlow]([flow_no]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_pos_TradeFlow_2] ON [dbo].[pos_TradeFlow]([posno]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_pos_TradeFlow_3] ON [dbo].[pos_TradeFlow]([sdate]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_pos_TradeFlow_4] ON [dbo].[pos_TradeFlow]([tradetype]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_pos_TradeFlow_5] ON [dbo].[pos_TradeFlow]([operater]) ON [PRIMARY]
+GO
+ CREATE  INDEX [IX_pos_TradeFlow_6] ON [dbo].[pos_TradeFlow]([shopno]) ON [PRIMARY]
+GO 
+
+CREATE TABLE [dbo].[tCzkPayError] (
+	[flow_no] [varchar] (16)  NOT NULL ,
+	[cardno] [varchar] (30)  NOT NULL ,
+	[posno] [varchar] (4)  NOT NULL ,
+	[sdate] [datetime] NOT NULL ,
+	[operater] [varchar] (5)  NOT NULL ,
+	[tradetype] [varchar] (1)  NOT NULL ,
+	[paypmt] [varchar] (2)  NOT NULL ,
+	[total] [money] NOT NULL ,
+	[scye] [money] NOT NULL ,
+	[ckic] [varchar] (1)  NULL 
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[tCzkPayError] ADD 
+	CONSTRAINT [DF__tCzkPayEr__total__1E5DA321] DEFAULT (0) FOR [total],
+	CONSTRAINT [DF__tCzkPayErr__scye__1F51C75A] DEFAULT (0) FOR [scye]
+GO
+
+ CREATE  INDEX [IX_tCzkPayError_1] ON [dbo].[tCzkPayError]([flow_no]) ON [PRIMARY]
+GO
+
+ CREATE  INDEX [IX_tCzkPayError_2] ON [dbo].[tCzkPayError]([posno]) ON [PRIMARY]
+GO
+
+ CREATE  INDEX [IX_tCzkPayError_3] ON [dbo].[tCzkPayError]([sdate]) ON [PRIMARY]
+GO
+
+ CREATE  INDEX [IX_tCzkPayError_4] ON [dbo].[tCzkPayError]([tradetype]) ON [PRIMARY]
+GO
+
+ CREATE  INDEX [IX_tCzkPayError_5] ON [dbo].[tCzkPayError]([paypmt]) ON [PRIMARY]
+GO
+
+ CREATE  INDEX [IX_tCzkPayError_6] ON [dbo].[tCzkPayError]([cardno]) ON [PRIMARY]
+GO
+
+/***************************************************************
+* Copyright (c) 2009-2010 SUMSOFT
+* 名  称: VIEW_PayType
+* 描  述: 商品信息
+* 创建人: szf  创建日期: 2012.07.10
+* 修改人:      修改日期:
+* 版  本: Ver 9.0
+****************************************************************/
+CREATE      VIEW VIEW_PayType
+--WITH ENCRYPTION
+AS
+ select ptypeno as Code,ptypena as CName,name as EName,convert(varchar(2),'00') as CurrCode,
+        (case when withchange='Y' then '1' else '0' end) as ChangeFlg,
+        (case when withno='Y' then '1' else '0' end) as GetNumFlg,
+        rate as ExchgRate,
+        (case when active='Y' then '1' else '0' end) as active
+ from PayType 
+
+GO
+
+

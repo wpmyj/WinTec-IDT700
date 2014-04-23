@@ -1,0 +1,85 @@
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPosWebService\bin\SumPosWebService.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPosWebService\bin\SumPosWebService.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPosWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPosWebService\obj\Debug\SumPosWebService.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPosWebService\obj\Debug\SumPosWebService.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPosWebService\bin\Model.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPosWebService\bin\Model.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPosWebService\bin\CompactFormatterPlus.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPosWebService\bin\ISerial.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPosWebService\bin\SharpZipLib.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPosWebService\bin\SqlServerAction.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPosWebService\bin\SqlServerAction.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPosWebService\bin\clientaccesspolicy.xml
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPosWebService\bin\crossdomain.xml
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPosWebService\bin\xtErrorLog.xml
+E:\中转站\SumPos(WebService only card)\SumPosWebService\bin\clientaccesspolicy.xml
+E:\中转站\SumPos(WebService only card)\SumPosWebService\bin\crossdomain.xml
+E:\中转站\SumPos(WebService only card)\SumPosWebService\bin\xtErrorLog.xml
+E:\中转站\SumPos(WebService only card)\SumPosWebService\bin\SumPosWebService.dll
+E:\中转站\SumPos(WebService only card)\SumPosWebService\bin\SumPosWebService.pdb
+E:\中转站\SumPos(WebService only card)\SumPosWebService\bin\Model.dll
+E:\中转站\SumPos(WebService only card)\SumPosWebService\bin\SqlServerAction.dll
+E:\中转站\SumPos(WebService only card)\SumPosWebService\bin\SqlServerAction.pdb
+E:\中转站\SumPos(WebService only card)\SumPosWebService\bin\Model.pdb
+E:\中转站\SumPos(WebService only card)\SumPosWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\中转站\SumPos(WebService only card)\SumPosWebService\obj\Debug\SumPosWebService.dll
+E:\中转站\SumPos(WebService only card)\SumPosWebService\obj\Debug\SumPosWebService.pdb
+E:\SumPos(WebService only card)\SumPosWebService\bin\xtErrorLog.xml
+E:\SumPos(WebService only card)\SumPosWebService\bin\SumPosWebService.dll
+E:\SumPos(WebService only card)\SumPosWebService\bin\SumPosWebService.pdb
+E:\SumPos(WebService only card)\SumPosWebService\bin\Model.dll
+E:\SumPos(WebService only card)\SumPosWebService\bin\SqlServerAction.dll
+E:\SumPos(WebService only card)\SumPosWebService\bin\SqlServerAction.pdb
+E:\SumPos(WebService only card)\SumPosWebService\bin\Model.pdb
+E:\SumPos(WebService only card)\SumPosWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\SumPos(WebService only card)\SumPosWebService\obj\Debug\SumPosWebService.dll
+E:\SumPos(WebService only card)\SumPosWebService\obj\Debug\SumPosWebService.pdb
+E:\SumPos(WebService only card)\SumPosWebService\bin\DllPubFile.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPosWebService\bin\DllPubFile.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPosWebService\bin\xtErrorLog.xml
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPosWebService\bin\SumPosWebService.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPosWebService\bin\SumPosWebService.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPosWebService\bin\Model.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPosWebService\bin\SqlServerAction.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPosWebService\bin\SqlServerAction.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPosWebService\bin\Model.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPosWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPosWebService\obj\Debug\SumPosWebService.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPosWebService\obj\Debug\SumPosWebService.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPosWebService\bin\xtErrorLog.xml
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPosWebService\bin\SumPosWebService.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPosWebService\bin\SumPosWebService.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPosWebService\bin\Model.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPosWebService\bin\SqlServerAction.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPosWebService\bin\SqlServerAction.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPosWebService\bin\Model.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPosWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPosWebService\obj\Debug\SumPosWebService.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPosWebService\obj\Debug\SumPosWebService.pdb
+F:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\xtErrorLog.xml
+F:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\SumPosWebService.dll
+F:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\SumPosWebService.pdb
+F:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\CompactFormatterPlus.dll
+F:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\ISerial.dll
+F:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\Model.dll
+F:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\SharpZipLib.dll
+F:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\SqlServerAction.dll
+F:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\SqlServerAction.pdb
+F:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\Model.pdb
+F:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\obj\Debug\ResolveAssemblyReference.cache
+F:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\obj\Debug\SumPosWebService.dll
+F:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\obj\Debug\SumPosWebService.pdb
+H:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\xtErrorLog.xml
+H:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\SumPosWebService.dll
+H:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\SumPosWebService.pdb
+H:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\CompactFormatterPlus.dll
+H:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\ISerial.dll
+H:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\Model.dll
+H:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\SharpZipLib.dll
+H:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\SqlServerAction.dll
+H:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\SqlServerAction.pdb
+H:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\bin\Model.pdb
+H:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\obj\Debug\ResolveAssemblyReference.cache
+H:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\obj\Debug\SumPosWebService.dll
+H:\开发源文件\SumPos(Cen90 WebService only card)\SumPosWebService\obj\Debug\SumPosWebService.pdb
