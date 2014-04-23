@@ -1,0 +1,346 @@
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\bin\Debug\DATA.xml
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\bin\Debug\IDTRFIDDLL.dll
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\bin\Debug\WintecIDT700.dll
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\bin\Debug\SumPos.exe
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\bin\Debug\SumPos.pdb
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\bin\Debug\BaseClass.dll
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\bin\Debug\ComClass.dll
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\bin\Debug\System.Data.SqlClient.dll
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\bin\Debug\BaseClass.pdb
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\bin\Debug\ComClass.pdb
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Login.resources
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Business.SaleReturnForm.resources
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Setting.ProductInfo.resources
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Setting.ProductDetailForm.resources
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Business.SaleQueryForm.resources
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Business.SaleForm.resources
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\obj\Debug\WintecSmart.ExitForm.resources
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\obj\Debug\WintecSmart.MainForm.resources
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\obj\Debug\SumPos.Properties.Resources.resources
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Setting.MenuForm.resources
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Setting.ResetForm.resources
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Setting.ShopInfoForm.resources
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Setting.SystemParamSetForm.resources
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\obj\Debug\SumPos.csproj.GenerateResource.Cache
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\obj\Debug\SumPos.exe
+E:\My Documents\我的工作\IDT700开发框架\2011-6-29（读卡线程上传存储过程）\WintecSmart\WintecSmart\obj\Debug\SumPos.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\bin\Debug\DATA.xml
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\bin\Debug\IDTRFIDDLL.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\bin\Debug\WintecIDT700.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\bin\Debug\SumPos.exe
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\bin\Debug\BaseClass.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\bin\Debug\ComClass.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\bin\Debug\System.Data.SqlClient.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\bin\Debug\BaseClass.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\bin\Debug\ComClass.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Login.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Business.SaleReturnForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Setting.ProductInfo.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Setting.ProductDetailForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Business.SaleQueryForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Business.SaleForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\WintecSmart.ExitForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\WintecSmart.MainForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\SumPos.Properties.Resources.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Setting.MenuForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Setting.ResetForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Setting.ShopInfoForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\WintecSmart.Setting.SystemParamSetForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\SumPos.csproj.GenerateResource.Cache
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\SumPos.exe
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\SumPos.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\bin\Debug\SumPos.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\SumPos.Login.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\SumPos.Business.SaleReturnForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\SumPos.Setting.ProductInfo.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\SumPos.Setting.ProductDetailForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\SumPos.Business.SaleQueryForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\SumPos.Business.SaleForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\SumPos.ExitForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\SumPos.MainForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\SumPos.Setting.MenuForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\SumPos.Setting.ResetForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\SumPos.Setting.ShopInfoForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\Idt 700 刷卡\SumPos\WintecSmart\WintecSmart\obj\Debug\SumPos.Setting.SystemParamSetForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\bin\Debug\DATA.xml
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\bin\Debug\IDTDevice.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\bin\Debug\IDTRFIDDLL.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\bin\Debug\SQLite.Interop.DLL
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\bin\Debug\WintecIDT700.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\bin\Debug\SumPos.exe
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\bin\Debug\SumPos.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\bin\Debug\Action.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\bin\Debug\BaseClass.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\bin\Debug\ComClass.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\bin\Debug\Model.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\bin\Debug\System.Data.SqlClient.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\bin\Debug\System.Data.SQLite.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\bin\Debug\Model.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\bin\Debug\BaseClass.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\bin\Debug\Action.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\bin\Debug\ComClass.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\obj\Debug\SumPos.Login.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\obj\Debug\SumPos.Business.SaleReturnForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\obj\Debug\SumPos.Business.SaleQueryForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\obj\Debug\SumPos.Business.SaleForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\obj\Debug\SumPos.ExitForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\obj\Debug\SumPos.MainForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\obj\Debug\SumPos.Properties.Resources.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\obj\Debug\SumPos.Setting.MenuForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\obj\Debug\SumPos.Setting.ResetForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\obj\Debug\SumPos.Setting.SystemParamSetForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\obj\Debug\SumPos.csproj.GenerateResource.Cache
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\obj\Debug\SumPos.exe
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos\SumPos\obj\Debug\SumPos.pdb
+E:\中转站\SumPos\SumPos\bin\Debug\DATA.xml
+E:\中转站\SumPos\SumPos\bin\Debug\IDTDevice.dll
+E:\中转站\SumPos\SumPos\bin\Debug\IDTRFIDDLL.dll
+E:\中转站\SumPos\SumPos\bin\Debug\SQLite.Interop.DLL
+E:\中转站\SumPos\SumPos\bin\Debug\WintecIDT700.dll
+E:\中转站\SumPos\SumPos\bin\Debug\SumPos.exe
+E:\中转站\SumPos\SumPos\bin\Debug\SumPos.pdb
+E:\中转站\SumPos\SumPos\bin\Debug\Action.dll
+E:\中转站\SumPos\SumPos\bin\Debug\BaseClass.dll
+E:\中转站\SumPos\SumPos\bin\Debug\ComClass.dll
+E:\中转站\SumPos\SumPos\bin\Debug\Model.dll
+E:\中转站\SumPos\SumPos\bin\Debug\System.Data.SqlClient.dll
+E:\中转站\SumPos\SumPos\bin\Debug\System.Data.SQLite.dll
+E:\中转站\SumPos\SumPos\bin\Debug\Model.pdb
+E:\中转站\SumPos\SumPos\bin\Debug\BaseClass.pdb
+E:\中转站\SumPos\SumPos\bin\Debug\Action.pdb
+E:\中转站\SumPos\SumPos\bin\Debug\ComClass.pdb
+E:\中转站\SumPos\SumPos\obj\Debug\ResolveAssemblyReference.cache
+E:\中转站\SumPos\SumPos\obj\Debug\SumPos.Login.resources
+E:\中转站\SumPos\SumPos\obj\Debug\SumPos.Business.SaleReturnForm.resources
+E:\中转站\SumPos\SumPos\obj\Debug\SumPos.Business.SaleQueryForm.resources
+E:\中转站\SumPos\SumPos\obj\Debug\SumPos.Business.SaleForm.resources
+E:\中转站\SumPos\SumPos\obj\Debug\SumPos.ExitForm.resources
+E:\中转站\SumPos\SumPos\obj\Debug\SumPos.MainForm.resources
+E:\中转站\SumPos\SumPos\obj\Debug\SumPos.Properties.Resources.resources
+E:\中转站\SumPos\SumPos\obj\Debug\SumPos.Setting.MenuForm.resources
+E:\中转站\SumPos\SumPos\obj\Debug\SumPos.Setting.ResetForm.resources
+E:\中转站\SumPos\SumPos\obj\Debug\SumPos.Setting.SystemParamSetForm.resources
+E:\中转站\SumPos\SumPos\obj\Debug\SumPos.csproj.GenerateResource.Cache
+E:\中转站\SumPos\SumPos\obj\Debug\SumPos.exe
+E:\中转站\SumPos\SumPos\obj\Debug\SumPos.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\bin\Debug\DATA.xml
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\bin\Debug\IDTDevice.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\bin\Debug\IDTRFIDDLL.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\bin\Debug\SQLite.Interop.DLL
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\bin\Debug\WintecIDT700.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\bin\Debug\SumPos.exe
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\bin\Debug\SumPos.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\bin\Debug\BaseClass.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\bin\Debug\CompactFormatterPlus.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\bin\Debug\ISerial.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\bin\Debug\Model.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\bin\Debug\SharpZipLib.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\bin\Debug\SqliteAction.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\bin\Debug\System.Data.SqlClient.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\bin\Debug\System.Data.SQLite.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\bin\Debug\BaseClass.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\bin\Debug\SqliteAction.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\bin\Debug\Model.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\obj\Debug\SumPos.Login.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\obj\Debug\SumPos.Business.SaleReturnForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\obj\Debug\SumPos.Business.SaleQueryForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\obj\Debug\SumPos.Business.SaleForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\obj\Debug\SumPos.ExitForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\obj\Debug\SumPos.MainForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\obj\Debug\SumPos.Properties.Resources.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\obj\Debug\SumPos.Setting.MenuForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\obj\Debug\SumPos.Setting.ResetForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\obj\Debug\SumPos.Setting.SystemParamSetForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\obj\Debug\SumPos.csproj.GenerateResource.Cache
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\obj\Debug\SumPos.exe
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SumPos\obj\Debug\SumPos.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\bin\Debug\DATA.xml
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\bin\Debug\IDTDevice.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\bin\Debug\IDTRFIDDLL.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\bin\Debug\SQLite.Interop.DLL
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\bin\Debug\WintecIDT700.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\bin\Debug\SumPos.exe
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\bin\Debug\SumPos.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\bin\Debug\BaseClass.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\bin\Debug\CompactFormatterPlus.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\bin\Debug\ISerial.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\bin\Debug\Model.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\bin\Debug\SharpZipLib.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\bin\Debug\SqliteAction.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\bin\Debug\System.Data.SqlClient.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\bin\Debug\System.Data.SQLite.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\bin\Debug\BaseClass.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\bin\Debug\SqliteAction.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\bin\Debug\Model.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Login.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Business.SaleReturnForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Business.SaleQueryForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Business.SaleForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.ExitForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.MainForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Properties.Resources.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Setting.MenuForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Setting.ResetForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Setting.SystemParamSetForm.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.csproj.GenerateResource.Cache
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.exe
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.pdb
+E:\中转站\SumPos(WebService only card)\SumPos\bin\Debug\DATA.xml
+E:\中转站\SumPos(WebService only card)\SumPos\bin\Debug\IDTDevice.dll
+E:\中转站\SumPos(WebService only card)\SumPos\bin\Debug\IDTRFIDDLL.dll
+E:\中转站\SumPos(WebService only card)\SumPos\bin\Debug\SQLite.Interop.DLL
+E:\中转站\SumPos(WebService only card)\SumPos\bin\Debug\WintecIDT700.dll
+E:\中转站\SumPos(WebService only card)\SumPos\bin\Debug\SumPos.exe
+E:\中转站\SumPos(WebService only card)\SumPos\bin\Debug\SumPos.pdb
+E:\中转站\SumPos(WebService only card)\SumPos\bin\Debug\BaseClass.dll
+E:\中转站\SumPos(WebService only card)\SumPos\bin\Debug\Model.dll
+E:\中转站\SumPos(WebService only card)\SumPos\bin\Debug\SqliteAction.dll
+E:\中转站\SumPos(WebService only card)\SumPos\bin\Debug\System.Data.SqlClient.dll
+E:\中转站\SumPos(WebService only card)\SumPos\bin\Debug\System.Data.SQLite.dll
+E:\中转站\SumPos(WebService only card)\SumPos\bin\Debug\BaseClass.pdb
+E:\中转站\SumPos(WebService only card)\SumPos\bin\Debug\SqliteAction.pdb
+E:\中转站\SumPos(WebService only card)\SumPos\bin\Debug\Model.pdb
+E:\中转站\SumPos(WebService only card)\SumPos\obj\Debug\ResolveAssemblyReference.cache
+E:\中转站\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Login.resources
+E:\中转站\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Business.SaleReturnForm.resources
+E:\中转站\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Business.SaleQueryForm.resources
+E:\中转站\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Business.SaleForm.resources
+E:\中转站\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.ExitForm.resources
+E:\中转站\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.MainForm.resources
+E:\中转站\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Properties.Resources.resources
+E:\中转站\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Setting.MenuForm.resources
+E:\中转站\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Setting.ResetForm.resources
+E:\中转站\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Setting.SystemParamSetForm.resources
+E:\中转站\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.csproj.GenerateResource.Cache
+E:\中转站\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.exe
+E:\中转站\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.pdb
+E:\SumPos(WebService only card)\SumPos\obj\Debug\ResolveAssemblyReference.cache
+E:\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Login.resources
+E:\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Business.SaleReturnForm.resources
+E:\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Business.SaleQueryForm.resources
+E:\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Business.SaleForm.resources
+E:\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.ExitForm.resources
+E:\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.MainForm.resources
+E:\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Properties.Resources.resources
+E:\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Setting.MenuForm.resources
+E:\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Setting.ResetForm.resources
+E:\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Setting.SystemParamSetForm.resources
+E:\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.csproj.GenerateResource.Cache
+E:\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.pdb
+E:\SumPos(WebService only card)\SumPos\bin\Debug\DATA.xml
+E:\SumPos(WebService only card)\SumPos\bin\Debug\IDTDevice.dll
+E:\SumPos(WebService only card)\SumPos\bin\Debug\IDTRFIDDLL.dll
+E:\SumPos(WebService only card)\SumPos\bin\Debug\SQLite.Interop.DLL
+E:\SumPos(WebService only card)\SumPos\bin\Debug\WintecIDT700.dll
+E:\SumPos(WebService only card)\SumPos\bin\Debug\SumPos.exe
+E:\SumPos(WebService only card)\SumPos\bin\Debug\SumPos.pdb
+E:\SumPos(WebService only card)\SumPos\bin\Debug\BaseClass.dll
+E:\SumPos(WebService only card)\SumPos\bin\Debug\Model.dll
+E:\SumPos(WebService only card)\SumPos\bin\Debug\SqliteAction.dll
+E:\SumPos(WebService only card)\SumPos\bin\Debug\System.Data.SqlClient.dll
+E:\SumPos(WebService only card)\SumPos\bin\Debug\System.Data.SQLite.dll
+E:\SumPos(WebService only card)\SumPos\bin\Debug\BaseClass.pdb
+E:\SumPos(WebService only card)\SumPos\bin\Debug\SqliteAction.pdb
+E:\SumPos(WebService only card)\SumPos\bin\Debug\Model.pdb
+E:\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.exe
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\bin\Debug\DATA.xml
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\bin\Debug\IDTDevice.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\bin\Debug\IDTRFIDDLL.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\bin\Debug\SQLite.Interop.DLL
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\bin\Debug\WintecIDT700.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\bin\Debug\SumPos.exe
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\bin\Debug\SumPos.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\bin\Debug\BaseClass.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\bin\Debug\SqliteAction.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\bin\Debug\System.Data.SqlClient.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\bin\Debug\System.Data.SQLite.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\bin\Debug\BaseClass.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\bin\Debug\SqliteAction.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\obj\Debug\SumPos.Login.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\obj\Debug\SumPos.Business.SaleReturnForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\obj\Debug\SumPos.Business.SaleQueryForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\obj\Debug\SumPos.Business.SaleForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\obj\Debug\SumPos.ExitForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\obj\Debug\SumPos.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\obj\Debug\SumPos.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\obj\Debug\SumPos.Setting.MenuForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\obj\Debug\SumPos.Setting.ResetForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\obj\Debug\SumPos.Setting.SystemParamSetForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\obj\Debug\SumPos.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\obj\Debug\SumPos.exe
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\obj\Debug\SumPos.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\obj\Debug\SumPos.Business.ChongzhiForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SumPos\obj\Debug\SumPos.Business.ChongZhiQueryForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\bin\Debug\DATA.xml
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\bin\Debug\IDTDevice.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\bin\Debug\IDTRFIDDLL.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\bin\Debug\SQLite.Interop.DLL
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\bin\Debug\WintecIDT700.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\bin\Debug\SumPos.exe
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\bin\Debug\SumPos.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\bin\Debug\BaseClass.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\bin\Debug\SqliteAction.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\bin\Debug\System.Data.SqlClient.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\bin\Debug\System.Data.SQLite.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\bin\Debug\BaseClass.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\bin\Debug\SqliteAction.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Business.ChongZhiForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Business.ChongZhiQueryForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Login.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Business.SaleReturnForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Business.SaleQueryForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Business.SaleForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.ExitForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Setting.MenuForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Setting.ResetForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.Setting.SystemParamSetForm.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.exe
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SumPos\obj\Debug\SumPos.pdb
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\bin\Debug\DATA.xml
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\bin\Debug\IDTDevice.dll
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\bin\Debug\IDTRFIDDLL.dll
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\bin\Debug\SQLite.Interop.DLL
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\bin\Debug\WintecIDT700.dll
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\bin\Debug\SumPos.exe
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\bin\Debug\SumPos.pdb
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\bin\Debug\BaseClass.dll
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\bin\Debug\CompactFormatterPlus.dll
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\bin\Debug\ISerial.dll
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\bin\Debug\Model.dll
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\bin\Debug\SharpZipLib.dll
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\bin\Debug\SqliteAction.dll
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\bin\Debug\System.Data.SqlClient.dll
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\bin\Debug\System.Data.SQLite.dll
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\bin\Debug\BaseClass.pdb
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\bin\Debug\SqliteAction.pdb
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\bin\Debug\Model.pdb
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\obj\Debug\ResolveAssemblyReference.cache
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\obj\Debug\SumPos.Business.ChongZhiForm.resources
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\obj\Debug\SumPos.Business.ChongZhiQueryForm.resources
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\obj\Debug\SumPos.Login.resources
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\obj\Debug\SumPos.Business.SaleReturnForm.resources
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\obj\Debug\SumPos.Business.SaleQueryForm.resources
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\obj\Debug\SumPos.Business.SaleForm.resources
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\obj\Debug\SumPos.ExitForm.resources
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\obj\Debug\SumPos.MainForm.resources
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\obj\Debug\SumPos.Properties.Resources.resources
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\obj\Debug\SumPos.Setting.MenuForm.resources
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\obj\Debug\SumPos.Setting.ResetForm.resources
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\obj\Debug\SumPos.Setting.SystemParamSetForm.resources
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\obj\Debug\SumPos.csproj.GenerateResource.Cache
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\obj\Debug\SumPos.exe
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SumPos\obj\Debug\SumPos.pdb

@@ -1,0 +1,845 @@
+"DeployProject"
+{
+"VSVersion" = "3:701"
+"ProjectType" = "8:{AB322303-2255-48EF-A496-5904EB18DA55}"
+"IsWebType" = "8:FALSE"
+"ProjectName" = "8:setup"
+"LanguageId" = "3:2052"
+"CodePage" = "3:936"
+"SccProjectName" = "8:"
+"SccLocalPath" = "8:"
+"SccAuxPath" = "8:"
+"SccProvider" = "8:"
+    "Hierarchy"
+    {
+        "Entry"
+        {
+        "MsmKey" = "8:_025C80E4B67F4174A50D5C747BF0AE4E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_210D1EFF533EFDB8FAAFA27E0E9E366A"
+        "OwnerKey" = "8:_27CBB7E8E0654B99AEEFB614BDF12619"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_210D1EFF533EFDB8FAAFA27E0E9E366A"
+        "OwnerKey" = "8:_93B392F83A465A2A5756E035FEE18A8D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_210D1EFF533EFDB8FAAFA27E0E9E366A"
+        "OwnerKey" = "8:_55495B631E1D42979F077A6460DCC06A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_27CBB7E8E0654B99AEEFB614BDF12619"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2ED926555D88427E87C1E58A6ADA7176"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3AE7DD416B1240729143DDD41A3DA208"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3B791607148A4132AACAFFA6CE194834"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_49C419792BCD46E092A85C7000743F13"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_55495B631E1D42979F077A6460DCC06A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5988F579DDDCCCC3EC6F8D7133D666E3"
+        "OwnerKey" = "8:_6B22516BCBA614626203BC88E6CAAC0C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5988F579DDDCCCC3EC6F8D7133D666E3"
+        "OwnerKey" = "8:_5D4E65A5F55B4CA98805EF9EB48C95C4"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5D4E65A5F55B4CA98805EF9EB48C95C4"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_61F76E1353A14B8796F169676ACEB494"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6451C64F145742FCA01D6ADAF1A4BB1B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6B22516BCBA614626203BC88E6CAAC0C"
+        "OwnerKey" = "8:_55495B631E1D42979F077A6460DCC06A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_90B3193E83C4750F81308D1405057DF8"
+        "OwnerKey" = "8:_55495B631E1D42979F077A6460DCC06A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_93B392F83A465A2A5756E035FEE18A8D"
+        "OwnerKey" = "8:_55495B631E1D42979F077A6460DCC06A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AA4562F5EEB14D4BB53F0912DC1F24AD"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B1061DC63ACB4C47857A18FE095B1BFF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B539D77464F24F6D75354DD7C931FABF"
+        "OwnerKey" = "8:_55495B631E1D42979F077A6460DCC06A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D963CAD9D4D9C32E1ECB06D5DAAD0C19"
+        "OwnerKey" = "8:_27CBB7E8E0654B99AEEFB614BDF12619"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D963CAD9D4D9C32E1ECB06D5DAAD0C19"
+        "OwnerKey" = "8:_93B392F83A465A2A5756E035FEE18A8D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E2631D0359544E8BB08FDC8A1ED933A3"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_EB6A458DE921412BA4675704A7BCE082"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+    }
+    "Configurations"
+    {
+        "Debug"
+        {
+        "DisplayName" = "8:Debug"
+        "IsDebugOnly" = "11:TRUE"
+        "IsReleaseOnly" = "11:FALSE"
+        "OutputFilename" = "8:Debug\\setup.cab"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "SignOutput" = "11:FALSE"
+        "CertificateHash" = "8:"
+        "TimeStampServer" = "8:"
+        }
+        "Release"
+        {
+        "DisplayName" = "8:Release"
+        "IsDebugOnly" = "11:FALSE"
+        "IsReleaseOnly" = "11:TRUE"
+        "OutputFilename" = "8:Release\\setup.cab"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "SignOutput" = "11:FALSE"
+        "CertificateHash" = "8:"
+        "TimeStampServer" = "8:"
+        }
+    }
+    "Deployable"
+    {
+        "File"
+        {
+            "{BA458234-9B71-4F46-8107-E91156377184}:_025C80E4B67F4174A50D5C747BF0AE4E"
+            {
+            "SourcePath" = "8:..\\SumPos\\bin\\Debug\\IDTDevice.dll"
+            "TargetName" = "8:IDTDevice.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_210D1EFF533EFDB8FAAFA27E0E9E366A"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Model, Version=1.0.4618.29893, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_210D1EFF533EFDB8FAAFA27E0E9E366A"
+                    {
+                    "Name" = "8:Model.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Model.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_27CBB7E8E0654B99AEEFB614BDF12619"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:SqliteAction, Version=1.0.4618.29893, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_27CBB7E8E0654B99AEEFB614BDF12619"
+                    {
+                    "Name" = "8:SqliteAction.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\SumPos\\bin\\Debug\\SqliteAction.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_2ED926555D88427E87C1E58A6ADA7176"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:ISerial, Version=1.0.3738.31659, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_2ED926555D88427E87C1E58A6ADA7176"
+                    {
+                    "Name" = "8:ISerial.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\SumPos\\bin\\Debug\\ISerial.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_3AE7DD416B1240729143DDD41A3DA208"
+            {
+            "SourcePath" = "8:..\\SumPos\\bin\\Debug\\WintecIDT700.dll"
+            "TargetName" = "8:WintecIDT700.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_3B791607148A4132AACAFFA6CE194834"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Data.SqlClient, Version=3.0.3600.0, Culture=neutral, PublicKeyToken=3be235df1c8d2ad3"
+                "ScatterAssemblies"
+                {
+                    "_3B791607148A4132AACAFFA6CE194834"
+                    {
+                    "Name" = "8:System.Data.SqlClient.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\SumPos\\bin\\Debug\\System.Data.SqlClient.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_49C419792BCD46E092A85C7000743F13"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:BaseClass, Version=1.0.4618.29894, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_49C419792BCD46E092A85C7000743F13"
+                    {
+                    "Name" = "8:BaseClass.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\SumPos\\bin\\Debug\\BaseClass.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_55495B631E1D42979F077A6460DCC06A"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:SumPos, Version=1.1.1.1, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_55495B631E1D42979F077A6460DCC06A"
+                    {
+                    "Name" = "8:SumPos.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\SumPos\\bin\\Debug\\SumPos.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_5988F579DDDCCCC3EC6F8D7133D666E3"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:ISerial, Version=1.0.3738.31659, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_5988F579DDDCCCC3EC6F8D7133D666E3"
+                    {
+                    "Name" = "8:ISerial.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:ISerial.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_5D4E65A5F55B4CA98805EF9EB48C95C4"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CompactFormatterPlus, Version=1.0.3738.31663, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_5D4E65A5F55B4CA98805EF9EB48C95C4"
+                    {
+                    "Name" = "8:CompactFormatterPlus.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\SumPos\\bin\\Debug\\CompactFormatterPlus.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_61F76E1353A14B8796F169676ACEB494"
+            {
+            "SourcePath" = "8:..\\SumPos\\bin\\Debug\\SQLite.Interop.DLL"
+            "TargetName" = "8:SQLite.Interop.DLL"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_6451C64F145742FCA01D6ADAF1A4BB1B"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Model, Version=1.0.4618.29893, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_6451C64F145742FCA01D6ADAF1A4BB1B"
+                    {
+                    "Name" = "8:Model.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\SumPos\\bin\\Debug\\Model.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_6B22516BCBA614626203BC88E6CAAC0C"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CompactFormatterPlus, Version=1.0.3738.31663, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_6B22516BCBA614626203BC88E6CAAC0C"
+                    {
+                    "Name" = "8:CompactFormatterPlus.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:CompactFormatterPlus.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_90B3193E83C4750F81308D1405057DF8"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:SharpZipLib, Version=1.0.0.0, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_90B3193E83C4750F81308D1405057DF8"
+                    {
+                    "Name" = "8:SharpZipLib.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:SharpZipLib.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_93B392F83A465A2A5756E035FEE18A8D"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:SqliteAction, Version=1.0.4618.29893, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_93B392F83A465A2A5756E035FEE18A8D"
+                    {
+                    "Name" = "8:SqliteAction.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:SqliteAction.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_AA4562F5EEB14D4BB53F0912DC1F24AD"
+            {
+            "SourcePath" = "8:..\\SumPos\\bin\\Debug\\DATA.xml"
+            "TargetName" = "8:DATA.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_B1061DC63ACB4C47857A18FE095B1BFF"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:SharpZipLib, Version=1.0.0.0, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_B1061DC63ACB4C47857A18FE095B1BFF"
+                    {
+                    "Name" = "8:SharpZipLib.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\SumPos\\bin\\Debug\\SharpZipLib.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_B539D77464F24F6D75354DD7C931FABF"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:BaseClass, Version=1.0.4618.29894, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_B539D77464F24F6D75354DD7C931FABF"
+                    {
+                    "Name" = "8:BaseClass.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:BaseClass.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_D963CAD9D4D9C32E1ECB06D5DAAD0C19"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Data.SQLite, Version=1.0.66.0, Culture=neutral, PublicKeyToken=1fdb50b1b62b4c84"
+                "ScatterAssemblies"
+                {
+                    "_D963CAD9D4D9C32E1ECB06D5DAAD0C19"
+                    {
+                    "Name" = "8:System.Data.SQLite.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.Data.SQLite.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_E2631D0359544E8BB08FDC8A1ED933A3"
+            {
+            "SourcePath" = "8:..\\SumPos\\bin\\Debug\\IDTRFIDDLL.dll"
+            "TargetName" = "8:IDTRFIDDLL.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_EB6A458DE921412BA4675704A7BCE082"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Data.SQLite, Version=1.0.66.0, Culture=neutral, PublicKeyToken=1fdb50b1b62b4c84"
+                "ScatterAssemblies"
+                {
+                    "_EB6A458DE921412BA4675704A7BCE082"
+                    {
+                    "Name" = "8:System.Data.SQLite.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\SumPos\\bin\\Debug\\System.Data.SQLite.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5958CA8482174021AFB6CD5BBA65FA77"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+        }
+        "Folder"
+        {
+            "{D5B00AC1-E6C3-4CC5-90FF-8E0F53D9E5E0}:_6985AB7977FB46CD99D3267387C1CD29"
+            {
+            "DefaultLocation" = "8:%InstallDir%"
+            "Name" = "8:#1920"
+            "Condition" = "8:"
+            "Property" = "8:%InstallDir%"
+                "Folders"
+                {
+                }
+            }
+            "{F6DFDB62-1DD1-498B-89B7-27BAC542EE5A}:_6B91B741E10F47149887719C5D1FCF61"
+            {
+            "Name" = "8:#1911"
+            "Condition" = "8:"
+            "Property" = "8:%CE1%"
+                "Folders"
+                {
+                }
+            }
+            "{27CA7284-31D3-408F-812A-1EF9ACCDB822}:_EB287070D567461B8ABCCE8E5EC40316"
+            {
+            "Name" = "8:NandFlash"
+            "Condition" = "8:"
+            "Property" = "8:CUSTOMFOLDER1"
+                "Folders"
+                {
+                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_5958CA8482174021AFB6CD5BBA65FA77"
+                    {
+                    "Name" = "8:SumPos"
+                    "Condition" = "8:"
+                    "Property" = "8:_2D443ACC87EB47459BD57494A6A29525"
+                        "Folders"
+                        {
+                        }
+                    }
+                }
+            }
+        }
+        "Product"
+        {
+        "Name" = "8:Microsoft Visual Studio"
+        "ProductName" = "8:setup"
+        "Manufacturer" = "8:sumsoft"
+        "OSVersionMin" = "8:4.0"
+        "OSVersionMax" = "8:6.99"
+        "NoUninstall" = "11:FALSE"
+        "Compress" = "11:FALSE"
+        "CESetupDLL" = "8:"
+        }
+        "ProjectOutput"
+        {
+        }
+        "Registry"
+        {
+            "HKLM"
+            {
+                "Keys"
+                {
+                    "{B1EBC968-6B66-4532-A885-748B79AF4477}:_72F239DC53DB4E599E28E5D15F797D3D"
+                    {
+                    "Name" = "8:init"
+                    "Condition" = "8:"
+                        "Keys"
+                        {
+                        }
+                        "Values"
+                        {
+                            "{C3684F64-58E2-4092-8E3C-D7483080DE5A}:_3F443D055EBD41B7B75CC5873C09FEDA"
+                            {
+                            "Name" = "8:Launch40"
+                            "Condition" = "8:"
+                            "ValueTypes" = "3:1"
+                            "Value" = "8:\\NandFlash\\SumPos\\SumPos.exe"
+                            }
+                        }
+                    }
+                }
+            }
+            "HKCU"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKCR"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKU"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKPU"
+            {
+                "Keys"
+                {
+                }
+            }
+        }
+        "Shortcut"
+        {
+        }
+    }
+}

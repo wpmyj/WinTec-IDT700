@@ -1,0 +1,45 @@
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SqlServerAction\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SqlServerAction\bin\Debug\SqlServerAction.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SqlServerAction\bin\Debug\SqlServerAction.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SqlServerAction\bin\Debug\Model.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SqlServerAction\bin\Debug\Model.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SqlServerAction\obj\Debug\SqlServerAction.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\SqlServerAction\obj\Debug\SqlServerAction.pdb
+E:\中转站\SumPos(WebService only card)\SqlServerAction\bin\Debug\SqlServerAction.dll
+E:\中转站\SumPos(WebService only card)\SqlServerAction\bin\Debug\SqlServerAction.pdb
+E:\中转站\SumPos(WebService only card)\SqlServerAction\bin\Debug\Model.dll
+E:\中转站\SumPos(WebService only card)\SqlServerAction\bin\Debug\Model.pdb
+E:\中转站\SumPos(WebService only card)\SqlServerAction\obj\Debug\ResolveAssemblyReference.cache
+E:\中转站\SumPos(WebService only card)\SqlServerAction\obj\Debug\SqlServerAction.dll
+E:\中转站\SumPos(WebService only card)\SqlServerAction\obj\Debug\SqlServerAction.pdb
+E:\SumPos(WebService only card)\SqlServerAction\bin\Debug\SqlServerAction.dll
+E:\SumPos(WebService only card)\SqlServerAction\bin\Debug\SqlServerAction.pdb
+E:\SumPos(WebService only card)\SqlServerAction\bin\Debug\Model.dll
+E:\SumPos(WebService only card)\SqlServerAction\bin\Debug\Model.pdb
+E:\SumPos(WebService only card)\SqlServerAction\obj\Debug\ResolveAssemblyReference.cache
+E:\SumPos(WebService only card)\SqlServerAction\obj\Debug\SqlServerAction.dll
+E:\SumPos(WebService only card)\SqlServerAction\obj\Debug\SqlServerAction.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SqlServerAction\bin\Debug\SqlServerAction.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SqlServerAction\bin\Debug\SqlServerAction.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SqlServerAction\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SqlServerAction\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SqlServerAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SqlServerAction\obj\Debug\SqlServerAction.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SqlServerAction\obj\Debug\SqlServerAction.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\SqlServerAction\bin\Debug\SqlServerAction.dll.config
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SqlServerAction\bin\Debug\SqlServerAction.dll.config
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SqlServerAction\bin\Debug\SqlServerAction.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SqlServerAction\bin\Debug\SqlServerAction.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SqlServerAction\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SqlServerAction\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SqlServerAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SqlServerAction\obj\Debug\SqlServerAction.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\SqlServerAction\obj\Debug\SqlServerAction.pdb
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SqlServerAction\bin\Debug\SqlServerAction.dll.config
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SqlServerAction\bin\Debug\SqlServerAction.dll
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SqlServerAction\bin\Debug\SqlServerAction.pdb
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SqlServerAction\bin\Debug\Model.dll
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SqlServerAction\bin\Debug\Model.pdb
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SqlServerAction\obj\Debug\ResolveAssemblyReference.cache
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SqlServerAction\obj\Debug\SqlServerAction.dll
+H:\开发源文件\SumPos(vip3.5 WebService only card)\SqlServerAction\obj\Debug\SqlServerAction.pdb

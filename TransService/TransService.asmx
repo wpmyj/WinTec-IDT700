@@ -1,1 +1,0 @@
-﻿<%@ WebService Language="C#" CodeBehind="TransService.asmx.cs" Class="TransService.TransService" %>

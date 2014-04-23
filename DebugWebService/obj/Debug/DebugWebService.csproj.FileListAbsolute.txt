@@ -1,0 +1,61 @@
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\DebugWebService\bin\Debug\DebugWebService.exe.config
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\DebugWebService\bin\Debug\DebugWebService.exe
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\DebugWebService\bin\Debug\DebugWebService.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\DebugWebService\bin\Debug\CompactFormatterPlus.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\DebugWebService\bin\Debug\ISerial.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\DebugWebService\bin\Debug\Model.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\DebugWebService\bin\Debug\SharpZipLib.dll
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\DebugWebService\bin\Debug\Model.pdb
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\DebugWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\DebugWebService\obj\Debug\DebugWebService.Form1.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\DebugWebService\obj\Debug\DebugWebService.Properties.Resources.resources
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\DebugWebService\obj\Debug\DebugWebService.csproj.GenerateResource.Cache
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\DebugWebService\obj\Debug\DebugWebService.exe
+E:\My Documents\我的文档\Visual Studio 2008\Projects\SumPos(webservice只刷卡)\DebugWebService\obj\Debug\DebugWebService.pdb
+E:\SumPos(WebService only card)\DebugWebService\bin\Debug\DebugWebService.exe.config
+E:\SumPos(WebService only card)\DebugWebService\bin\Debug\DebugWebService.exe
+E:\SumPos(WebService only card)\DebugWebService\bin\Debug\DebugWebService.pdb
+E:\SumPos(WebService only card)\DebugWebService\bin\Debug\Model.dll
+E:\SumPos(WebService only card)\DebugWebService\bin\Debug\Model.pdb
+E:\SumPos(WebService only card)\DebugWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\SumPos(WebService only card)\DebugWebService\obj\Debug\DebugWebService.Form1.resources
+E:\SumPos(WebService only card)\DebugWebService\obj\Debug\DebugWebService.Properties.Resources.resources
+E:\SumPos(WebService only card)\DebugWebService\obj\Debug\DebugWebService.csproj.GenerateResource.Cache
+E:\SumPos(WebService only card)\DebugWebService\obj\Debug\DebugWebService.exe
+E:\SumPos(WebService only card)\DebugWebService\obj\Debug\DebugWebService.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\DebugWebService\bin\Debug\DebugWebService.exe.config
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\DebugWebService\bin\Debug\DebugWebService.exe
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\DebugWebService\bin\Debug\DebugWebService.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\DebugWebService\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\DebugWebService\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\DebugWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\DebugWebService\obj\Debug\DebugWebService.Form1.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\DebugWebService\obj\Debug\DebugWebService.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\DebugWebService\obj\Debug\DebugWebService.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\DebugWebService\obj\Debug\DebugWebService.exe
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)加密\DebugWebService\obj\Debug\DebugWebService.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\DebugWebService\bin\Debug\DebugWebService.exe.config
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\DebugWebService\bin\Debug\DebugWebService.exe
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\DebugWebService\bin\Debug\DebugWebService.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\DebugWebService\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\DebugWebService\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\DebugWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\DebugWebService\obj\Debug\DebugWebService.Form1.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\DebugWebService\obj\Debug\DebugWebService.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\DebugWebService\obj\Debug\DebugWebService.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\DebugWebService\obj\Debug\DebugWebService.exe
+C:\Documents and Settings\Administrator\桌面\SumPos(WebService only card)\DebugWebService\obj\Debug\DebugWebService.pdb
+E:\My Documents\我的开发\SumPos(WebService only card)\DebugWebService\bin\Debug\DebugWebService.exe.config
+E:\My Documents\我的开发\SumPos(WebService only card)\DebugWebService\bin\Debug\DebugWebService.exe
+E:\My Documents\我的开发\SumPos(WebService only card)\DebugWebService\bin\Debug\DebugWebService.pdb
+E:\My Documents\我的开发\SumPos(WebService only card)\DebugWebService\bin\Debug\CompactFormatterPlus.dll
+E:\My Documents\我的开发\SumPos(WebService only card)\DebugWebService\bin\Debug\ISerial.dll
+E:\My Documents\我的开发\SumPos(WebService only card)\DebugWebService\bin\Debug\Model.dll
+E:\My Documents\我的开发\SumPos(WebService only card)\DebugWebService\bin\Debug\SharpZipLib.dll
+E:\My Documents\我的开发\SumPos(WebService only card)\DebugWebService\bin\Debug\Model.pdb
+E:\My Documents\我的开发\SumPos(WebService only card)\DebugWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\我的开发\SumPos(WebService only card)\DebugWebService\obj\Debug\DebugWebService.Form1.resources
+E:\My Documents\我的开发\SumPos(WebService only card)\DebugWebService\obj\Debug\DebugWebService.Properties.Resources.resources
+E:\My Documents\我的开发\SumPos(WebService only card)\DebugWebService\obj\Debug\DebugWebService.csproj.GenerateResource.Cache
+E:\My Documents\我的开发\SumPos(WebService only card)\DebugWebService\obj\Debug\DebugWebService.exe
+E:\My Documents\我的开发\SumPos(WebService only card)\DebugWebService\obj\Debug\DebugWebService.pdb

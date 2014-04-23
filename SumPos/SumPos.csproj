@@ -1,0 +1,299 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C7494ABE-8DAB-410E-8E5D-EAA460AA5215}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SumPos</RootNamespace>
+    <AssemblyName>SumPos</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>WindowsCE</PlatformFamilyName>
+    <PlatformID>E2BECB1F-8C8C-41ba-B736-9BE7D946A398</PlatformID>
+    <OSVersion>5.00</OSVersion>
+    <DeployDirSuffix>SumPos</DeployDirSuffix>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FormFactorID>
+    </FormFactorID>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <StartupObject>
+    </StartupObject>
+    <SignAssembly>false</SignAssembly>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <NativePlatformName>Windows CE</NativePlatformName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CompactFormatterPlus, Version=1.0.3738.31663, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\类库\压缩&amp;序列化 for wince\CompactFormatterPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="ISerial, Version=1.0.3738.31659, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\类库\压缩&amp;序列化 for wince\ISerial.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsCE.Forms" />
+    <Reference Include="mscorlib" />
+    <Reference Include="SharpZipLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\类库\压缩&amp;序列化 for wince\SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SqlClient, Version=3.0.3600.0, Culture=neutral, PublicKeyToken=3be235df1c8d2ad3, processorArchitecture=MSIL" />
+    <Reference Include="System.Data.SQLite, Version=1.0.66.0, Culture=neutral, PublicKeyToken=1fdb50b1b62b4c84, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Business\ChongZhiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Business\ChongZhiForm.Designer.cs">
+      <DependentUpon>ChongZhiForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Business\ChongZhiQueryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Business\ChongZhiQueryForm.Designer.cs">
+      <DependentUpon>ChongZhiQueryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Business\SaleReturnForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Business\SaleReturnForm.designer.cs">
+      <DependentUpon>SaleReturnForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Business\SaleQueryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Business\SaleQueryForm.Designer.cs">
+      <DependentUpon>SaleQueryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReadReg.cs" />
+    <Compile Include="SaleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleForm.designer.cs">
+      <DependentUpon>SaleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExitForm.Designer.cs">
+      <DependentUpon>ExitForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Business\ChongZhiForm.resx">
+      <DependentUpon>ChongZhiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business\ChongZhiQueryForm.resx">
+      <DependentUpon>ChongZhiQueryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business\SaleReturnForm.resx">
+      <DependentUpon>SaleReturnForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business\SaleQueryForm.resx">
+      <DependentUpon>SaleQueryForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleForm.resx">
+      <DependentUpon>SaleForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExitForm.resx">
+      <DependentUpon>ExitForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setting\MenuForm.resx">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setting\ResetForm.resx">
+      <DependentUpon>ResetForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setting\SystemParamSetForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SystemParamSetForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Web References\SumSerivice\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="ZipSerialClass.cs" />
+    <Compile Include="Setting\MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setting\MenuForm.Designer.cs">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Setting\ResetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setting\ResetForm.Designer.cs">
+      <DependentUpon>ResetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Setting\SystemParamSetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setting\SystemParamSetForm.Designer.cs">
+      <DependentUpon>SystemParamSetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WebService.cs" />
+    <Compile Include="WintecIDT700.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Setting\设置.txt" />
+    <Content Include="Business\业务管理.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DATA.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="IDTDevice.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="IDTRFIDDLL.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SQLite.Interop.DLL">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Web References\SumSerivice\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\SumSerivice\SumPosWebService.disco" />
+    <None Include="Web References\SumSerivice\SumPosWebService.wsdl" />
+    <Content Include="WintecIDT700.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BaseClass\BaseClass.csproj">
+      <Project>{BA9BFC58-8D64-4AC2-9456-6BCBF4AD795D}</Project>
+      <Name>BaseClass</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{115E002E-CF19-4400-BB38-FA28DA1C4322}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SqliteAction\SqliteAction.csproj">
+      <Project>{8A735603-1703-40D0-B35E-AE38707EDCA4}</Project>
+      <Name>SqliteAction</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://localhost:8080/SumPosWebService.asmx">
+      <UrlBehavior>Static</UrlBehavior>
+      <RelPath>Web References\SumSerivice\</RelPath>
+      <UpdateFromURL>http://localhost:8080/SumPosWebService.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>
+      </CachedAppSettingsObjectName>
+      <CachedSettingsPropName>
+      </CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\" />
+  </ItemGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v3.5'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+</Project>

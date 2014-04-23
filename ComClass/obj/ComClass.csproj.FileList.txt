@@ -1,0 +1,13 @@
+bin\Debug\ComClass.dll
+bin\Debug\ComClass.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ComClass.wait.gif
+obj\Debug\AnimateControl.AnimateCtl.resources
+obj\Debug\ComClass.csproj.GenerateResource.Cache
+obj\Debug\ComClass.dll
+obj\Debug\ComClass.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ComClass.wait.gif
+obj\Release\AnimateControl.AnimateCtl.resources
+obj\Release\ComClass.csproj.GenerateResource.Cache
+bin\Debug\System.Data.SQLite.dll

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="HelloWorld">
+        <s:complexType />
+      </s:element>
+      <s:element name="HelloWorldResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="HelloWorldResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getCzCardByZh">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="hyzh" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getCzCardByZhResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getCzCardByZhResult" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getCzCardByKh">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="hykh" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getCzCardByKhResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getCzCardByKhResult" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getCzCardByEnCryStr">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="enCryStr" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getCzCardByEnCryStrResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getCzCardByEnCryStrResult" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="savePay">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="tradeFlowBuff" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="payFlowBuff" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="savePayResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="savePayResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="syncUser">
+        <s:complexType />
+      </s:element>
+      <s:element name="syncUserResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="syncUserResult" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="syncFlow">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="tradeFlowBuff" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="payFlowBuff" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="syncFlowResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="syncFlowResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="userLogon">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="usercode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pwd" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="userLogonResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="userLogonResult" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="czkChzh">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="chzhFlowBuff" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="czkChzhResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="czkChzhResult" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ChkRight">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="posNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sNo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ChkRightResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ChkRightResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HelloWorldSoapIn">
+    <wsdl:part name="parameters" element="tns:HelloWorld" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldSoapOut">
+    <wsdl:part name="parameters" element="tns:HelloWorldResponse" />
+  </wsdl:message>
+  <wsdl:message name="getCzCardByZhSoapIn">
+    <wsdl:part name="parameters" element="tns:getCzCardByZh" />
+  </wsdl:message>
+  <wsdl:message name="getCzCardByZhSoapOut">
+    <wsdl:part name="parameters" element="tns:getCzCardByZhResponse" />
+  </wsdl:message>
+  <wsdl:message name="getCzCardByKhSoapIn">
+    <wsdl:part name="parameters" element="tns:getCzCardByKh" />
+  </wsdl:message>
+  <wsdl:message name="getCzCardByKhSoapOut">
+    <wsdl:part name="parameters" element="tns:getCzCardByKhResponse" />
+  </wsdl:message>
+  <wsdl:message name="getCzCardByEnCryStrSoapIn">
+    <wsdl:part name="parameters" element="tns:getCzCardByEnCryStr" />
+  </wsdl:message>
+  <wsdl:message name="getCzCardByEnCryStrSoapOut">
+    <wsdl:part name="parameters" element="tns:getCzCardByEnCryStrResponse" />
+  </wsdl:message>
+  <wsdl:message name="savePaySoapIn">
+    <wsdl:part name="parameters" element="tns:savePay" />
+  </wsdl:message>
+  <wsdl:message name="savePaySoapOut">
+    <wsdl:part name="parameters" element="tns:savePayResponse" />
+  </wsdl:message>
+  <wsdl:message name="syncUserSoapIn">
+    <wsdl:part name="parameters" element="tns:syncUser" />
+  </wsdl:message>
+  <wsdl:message name="syncUserSoapOut">
+    <wsdl:part name="parameters" element="tns:syncUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="syncFlowSoapIn">
+    <wsdl:part name="parameters" element="tns:syncFlow" />
+  </wsdl:message>
+  <wsdl:message name="syncFlowSoapOut">
+    <wsdl:part name="parameters" element="tns:syncFlowResponse" />
+  </wsdl:message>
+  <wsdl:message name="userLogonSoapIn">
+    <wsdl:part name="parameters" element="tns:userLogon" />
+  </wsdl:message>
+  <wsdl:message name="userLogonSoapOut">
+    <wsdl:part name="parameters" element="tns:userLogonResponse" />
+  </wsdl:message>
+  <wsdl:message name="czkChzhSoapIn">
+    <wsdl:part name="parameters" element="tns:czkChzh" />
+  </wsdl:message>
+  <wsdl:message name="czkChzhSoapOut">
+    <wsdl:part name="parameters" element="tns:czkChzhResponse" />
+  </wsdl:message>
+  <wsdl:message name="ChkRightSoapIn">
+    <wsdl:part name="parameters" element="tns:ChkRight" />
+  </wsdl:message>
+  <wsdl:message name="ChkRightSoapOut">
+    <wsdl:part name="parameters" element="tns:ChkRightResponse" />
+  </wsdl:message>
+  <wsdl:portType name="SumPosWebServiceSoap">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldSoapIn" />
+      <wsdl:output message="tns:HelloWorldSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getCzCardByZh">
+      <wsdl:input message="tns:getCzCardByZhSoapIn" />
+      <wsdl:output message="tns:getCzCardByZhSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getCzCardByKh">
+      <wsdl:input message="tns:getCzCardByKhSoapIn" />
+      <wsdl:output message="tns:getCzCardByKhSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getCzCardByEnCryStr">
+      <wsdl:input message="tns:getCzCardByEnCryStrSoapIn" />
+      <wsdl:output message="tns:getCzCardByEnCryStrSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="savePay">
+      <wsdl:input message="tns:savePaySoapIn" />
+      <wsdl:output message="tns:savePaySoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="syncUser">
+      <wsdl:input message="tns:syncUserSoapIn" />
+      <wsdl:output message="tns:syncUserSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="syncFlow">
+      <wsdl:input message="tns:syncFlowSoapIn" />
+      <wsdl:output message="tns:syncFlowSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="userLogon">
+      <wsdl:input message="tns:userLogonSoapIn" />
+      <wsdl:output message="tns:userLogonSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="czkChzh">
+      <wsdl:input message="tns:czkChzhSoapIn" />
+      <wsdl:output message="tns:czkChzhSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ChkRight">
+      <wsdl:input message="tns:ChkRightSoapIn" />
+      <wsdl:output message="tns:ChkRightSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SumPosWebServiceSoap" type="tns:SumPosWebServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getCzCardByZh">
+      <soap:operation soapAction="http://tempuri.org/getCzCardByZh" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getCzCardByKh">
+      <soap:operation soapAction="http://tempuri.org/getCzCardByKh" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getCzCardByEnCryStr">
+      <soap:operation soapAction="http://tempuri.org/getCzCardByEnCryStr" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="savePay">
+      <soap:operation soapAction="http://tempuri.org/savePay" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="syncUser">
+      <soap:operation soapAction="http://tempuri.org/syncUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="syncFlow">
+      <soap:operation soapAction="http://tempuri.org/syncFlow" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="userLogon">
+      <soap:operation soapAction="http://tempuri.org/userLogon" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="czkChzh">
+      <soap:operation soapAction="http://tempuri.org/czkChzh" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ChkRight">
+      <soap:operation soapAction="http://tempuri.org/ChkRight" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SumPosWebServiceSoap12" type="tns:SumPosWebServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap12:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getCzCardByZh">
+      <soap12:operation soapAction="http://tempuri.org/getCzCardByZh" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getCzCardByKh">
+      <soap12:operation soapAction="http://tempuri.org/getCzCardByKh" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getCzCardByEnCryStr">
+      <soap12:operation soapAction="http://tempuri.org/getCzCardByEnCryStr" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="savePay">
+      <soap12:operation soapAction="http://tempuri.org/savePay" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="syncUser">
+      <soap12:operation soapAction="http://tempuri.org/syncUser" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="syncFlow">
+      <soap12:operation soapAction="http://tempuri.org/syncFlow" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="userLogon">
+      <soap12:operation soapAction="http://tempuri.org/userLogon" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="czkChzh">
+      <soap12:operation soapAction="http://tempuri.org/czkChzh" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ChkRight">
+      <soap12:operation soapAction="http://tempuri.org/ChkRight" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SumPosWebService">
+    <wsdl:port name="SumPosWebServiceSoap" binding="tns:SumPosWebServiceSoap">
+      <soap:address location="http://localhost:8080/SumPosWebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SumPosWebServiceSoap12" binding="tns:SumPosWebServiceSoap12">
+      <soap12:address location="http://localhost:8080/SumPosWebService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

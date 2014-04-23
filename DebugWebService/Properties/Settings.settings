@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DebugWebService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DebugWebService_localhost_SumPosWebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/SumPosWebService.asmx</Value>
+    </Setting>
+    <Setting Name="DebugWebService_WebReference_SumPosWebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://222.187.114.158/SumPosWebService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
